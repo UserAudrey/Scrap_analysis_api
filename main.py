@@ -134,6 +134,12 @@ def top_defauts_par_cate(colonne_categorie, colonne_qte_defaut, colonnes_afficha
 async def process_csv(request: CSVRequest):
     # Lecture et conversion du fichier CSV envoyé en DataFrame
     try:
+        # Vérification et ajout du padding nécessaire pour une chaîne base64 valide
+        file_data = request.file_data
+        missing_padding = len(file_data) % 4
+        if missing_padding:
+            file_data += '=' * (4 - missing_padding)
+            
         decoded_bytes = base64.b64decode(request.file_data)
         #contents = await file.read()
         df = pd.read_csv(BytesIO(decoded_bytes), encoding="cp1252", sep=None, engine="python")
