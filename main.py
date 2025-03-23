@@ -153,8 +153,10 @@ async def process_csv(request: CSVRequest):
     #         raise HTTPException(status_code=400, detail=f"Le fichier CSV doit contenir la colonne '{col}'")
 
     # Conversion des listes de colonnes depuis une chaîne (séparateur virgule)
-    colonnes_affichage = [c.strip() for c in colonnes_affichage.split(",")]
-    colonnes_affichage_2 = [c.strip() for c in colonnes_affichage_2.split(",")]
+    #colonnes_affichage = [c.strip() for c in colonnes_affichage.split(",")]
+    #colonnes_affichage_2 = [c.strip() for c in colonnes_affichage_2.split(",")]
+    colonnes_affichage = request.colonnes_affichage
+    colonnes_affichage_2 = request.colonnes_affichage_2
 
     # Définir la date spécifique : la dernière date présente dans le fichier
     # unique_dates = df[colonne_date].unique()
