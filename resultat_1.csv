@@ -1,0 +1,22 @@
+index,ï»¿Date de creation,Ligne,Defaut,Qte defaut,Phase d'origine,Phase de detection
+170,08/03/2025,11TA1,NF02 soudure self Ã©clatÃ©,3,60 soudure self NÂ°1 C B,60 soudure self NÂ°1 C B
+413,12/03/2025,B8,NF05 soudure connecteur Ã©crasÃ©,4,30 soudure connecteur sur platine C B,30 soudure connecteur sur platine C B
+269,10/03/2025,CM3-CM4 Ligne 2,C24 Marquage non conforme,8,2.175 controle vision C A,2.175 controle vision C A
+35,06/03/2025,DCK,NF01 Bakelite cassÃ©,8,210 test Ã©lectrique C B,210 test Ã©lectrique C B
+97,07/03/2025,F.P,F01 Self dÃ©formÃ©e,23,70 Verrouillage self / tresse P B,120 DÃ©chargement palette P B
+126,07/03/2025,Flex1,NF13 Soudure self  Ã©crasÃ©e,12,60 soudure Ã©lectrique self sur lame C A,70 MEP condo  + Retournement boitier C A
+277,11/03/2025,Flex2,NF12 Mauvais bouterollage lame balai /boitier,50,30 Insertion lame/balai sur boitier_Flex 2 P A,50 Mise en place self / shunt Flex-2 C A
+184,08/03/2025,GEN2 Continue,10 Camera vision,25,150 Test force GENIIC C B,150 Test force GENIIC C B
+47,06/03/2025,GEN2 RÃ©versible,NF 40 Muret cassÃ©,2,70 Botrollage C A,70 Botrollage C A
+211,08/03/2025,Mng 2.1,MN01 plaquette cassÃ©e,2,140 _60 Test Ã©lectrique P B,140 _60 Test Ã©lectrique P B
+233,10/03/2025,Mng 2.2,MN01 plaquette cassÃ©e,8,120_58 poste de montage reteneur P B,120_58 poste de montage reteneur P B
+259,10/03/2025,NEM 2 dup,NF09 patte de masse tordue,7,100 Boutollage PDM P A,110 Mise en place des ressorts P A
+388,12/03/2025,PIERBURG SKP42,NC 16 Guide abimÃ©,3,60 Sertissage guide et montage reteneur P ,130 Controle final et emballage C A
+308,11/03/2025,Preparation CM3,P10.B PDM endommagÃ©,6,3.25 PrÃ©-insertion des inserts PDM C A,3.35 Retournement C A
+345,11/03/2025,Preparation CM4,NF 01 Balai cassÃ©,120,50- montage self/balais sur boitier C A,51 controle prÃ©paration C A
+251,10/03/2025,T7,NF31 Platine cassÃ©,3,10 dÃ©schuntage platine C B,10 dÃ©schuntage platine C B
+122,07/03/2025,VM4 AUTO I,NF25 reteneur.. cassÃ©,5, montage composants sur convoyeur P A, montage composants sur convoyeur P A
+150,08/03/2025,VM4 AUTO II,NF09 contact dÃ©formÃ©,3,100-155 montage composants sur palettes C A,100-155 montage composants sur palettes C A
+52,06/03/2025,VM4 Partie A,16 Tour brÃ»lÃ©e,8,20 robot  de brasage P A,20 robot  de brasage P A
+19,06/03/2025,back up antenna,2 Manque matiÃ¨re LPM,5,60 BUA  LPM C A,60 BUA  LPM C A
+326,11/03/2025,sim 2,NF05 boitier cassÃ©,8,40 insertion rotule C A,40 insertion rotule C A
