@@ -139,7 +139,7 @@ async def process_csv(request: CSVRequest):
         missing_padding = len(file_data) % 4
         if missing_padding:
             file_data += '=' * (4 - missing_padding)
-            
+
         decoded_bytes = base64.b64decode(request.file_data)
         #contents = await file.read()
         df = pd.read_csv(BytesIO(decoded_bytes), encoding="cp1252", sep=None, engine="python")
@@ -147,10 +147,10 @@ async def process_csv(request: CSVRequest):
         raise HTTPException(status_code=400, detail=f"Erreur lors de la lecture du fichier CSV: {e}")
 
     # Vérification des colonnes requises dans le CSV
-    required_columns = ['Defaut', 'Categorie']
-    for col in required_columns:
-        if col not in df.columns:
-            raise HTTPException(status_code=400, detail=f"Le fichier CSV doit contenir la colonne '{col}'")
+    # required_columns = [request.colonne_defaut, 'Categorie']
+    # for col in required_columns:
+    #     if col not in df.columns:
+    #         raise HTTPException(status_code=400, detail=f"Le fichier CSV doit contenir la colonne '{col}'")
 
     # Conversion des listes de colonnes depuis une chaîne (séparateur virgule)
     colonnes_affichage = [c.strip() for c in colonnes_affichage.split(",")]
