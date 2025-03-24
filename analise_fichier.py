@@ -9,7 +9,7 @@ df_initial = pd.read_csv(r"C:\Users\MAGNE\AVO Carbon\Assembly - AI-deployment\sc
 print(df_initial.columns)
 
 #######  Vérification et affichage des colonnes requises #########
-if 'Defaut' not in df_initial.columns or 'Catégorie' not in df_initial.columns:
+if 'DÃ©faut' not in df_initial.columns or 'CatÃ©gorie' not in df_initial.columns:
     raise ValueError("Le fichier CSV doit contenir les colonnes 'défaut' et 'catégorie'")
 
 
@@ -36,10 +36,10 @@ def nbre_total_defaut_par_cate(colonne_categorie, colonne_qte_defaut,date_specif
     nbre_defaut_par_cate = df_filtre.groupby(colonne_categorie)[colonne_qte_defaut].sum().reset_index().rename(columns={'Defaut': 'nombre_total_defauts'})
     return nbre_defaut_par_cate
 
-colonne_categorie = 'Categorie'
-colonne_qte_defaut = 'Qte defaut'
-date_specifique = '12/03/2025'
-colonne_date= 'ï»¿Date de creation'
+colonne_categorie = 'CatÃ©gorie'
+colonne_qte_defaut = 'Qte dÃ©faut'
+date_specifique = '22/03/2025'
+colonne_date= 'ï»¿Date de crÃ©ation'
 nbre_defaut_par_cate = nbre_total_defaut_par_cate(colonne_categorie, colonne_qte_defaut,date_specifique, colonne_date,df=None)
 if date_specifique is not None:
     message = f"Nombre total de défaut pour chaque catégorie pour la date {date_specifique} :"
