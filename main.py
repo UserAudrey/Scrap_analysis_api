@@ -18,6 +18,7 @@ class CSVRequest(BaseModel):
     colonne_qte_defaut: str
     colonne_ligne: str
     #colonne_defaut: str
+    date_specifique: str
     nbre_top_defaut: int
     nb_days: int
     colonnes_affichage: list[str]
