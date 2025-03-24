@@ -3,3 +3,4 @@ fastapi[all]
 pandas
 uvicorn
 pydantic
+b2sdk
