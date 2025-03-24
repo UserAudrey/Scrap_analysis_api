@@ -156,11 +156,13 @@ async def process_csv(request: CSVRequest):
         file_name = "SCRAP_2025_03_13-08_03_42 V1.xlsx"
         downloaded_file = bucket.download_file_by_name(file_name)
         downloaded_file.save_to("data.csv")
+        print("Le fichier data.csv a bien été téléchargé et sauvegardé.")
 
         #decoded_bytes = base64.b64decode(fichier_csv)
         #contents = await file.read()
         #df = pd.read_csv(BytesIO(decoded_bytes), encoding="cp1252", sep=",", engine="python")
         df = pd.read_csv("data.csv", encoding="cp1252", sep=None, engine="python")
+        
     except Exception as e:
         raise HTTPException(status_code=400, detail=f"Erreur lors de la lecture du fichier CSV: {e}")
 
