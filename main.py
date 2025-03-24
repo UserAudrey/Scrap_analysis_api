@@ -142,7 +142,7 @@ async def process_csv(request: CSVRequest):
 
         decoded_bytes = base64.b64decode(file_data)
         #contents = await file.read()
-        df = pd.read_csv(BytesIO(decoded_bytes), encoding="cp1252", sep=";", engine="python")
+        df = pd.read_csv(BytesIO(decoded_bytes), encoding="cp1252", sep=",", engine="python")
     except Exception as e:
         raise HTTPException(status_code=400, detail=f"Erreur lors de la lecture du fichier CSV: {e}")
 
