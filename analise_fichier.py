@@ -2,14 +2,14 @@ import pandas as pd
 #import matplotlib.pyplot as plt
 
 # Charger le fichier CSV 
-df_initial = pd.read_csv(r"C:\Users\MAGNE\AVO Carbon\Assembly - AI-deployment\scapt_analyse\SCRAP_2025_03_13-08_03_42 V1.csv",
+df_initial = pd.read_csv(r"C:\Users\MAGNE\AVO Carbon\Assembly - AI-deployment\scapt_analyse\Scrap S12.csv",
     encoding="cp1252",
     sep=None,
     engine="python")
 print(df_initial.columns)
 
 #######  Vérification et affichage des colonnes requises #########
-if 'Defaut' not in df_initial.columns or 'Categorie' not in df_initial.columns:
+if 'Defaut' not in df_initial.columns or 'Catégorie' not in df_initial.columns:
     raise ValueError("Le fichier CSV doit contenir les colonnes 'défaut' et 'catégorie'")
 
 

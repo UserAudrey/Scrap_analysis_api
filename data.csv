@@ -1,421 +1,283 @@
-﻿Date de creation;Type;Categorie;Equipe;Produit;Ligne;Defaut;Qte defaut;Phase d'origine;Phase de detection
-06/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF08 Piste tordue;1;110 poste de contrôle final Flex 2 C A;110 poste de contrôle final Flex 2 C A
-06/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF11 Lame déformée;7;30 Insertion lame/balai sur boitier_Flex 2 P A;110 poste de contrôle final Flex 2 C A
-06/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;N55 Mauvaise  marquage;15;90 Test électrique Flex 2 C A;110 poste de contrôle final Flex 2 C A
-06/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;N56 Soudure self éclaté;7;60 soudure électrique self / shunt  sur lame Flex2 C A;70 MEP condo  + Retournement boitier C A
-06/03/2025;Scrap;Formation;Nuit;10 VW000054852 PPC FLEX;Flex2;NF12 Mauvais bouterollage lame balai /boitier;27;40 Sertissage lamme boitier et boutrollage Flex-2 C A;50 Mise en place self / shunt Flex-2 C A
-06/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF14 Soudure collage;1;60 soudure électrique self / shunt  sur lame Flex2 C A;110 poste de contrôle final Flex 2 C A
-06/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF18 Double marquage;2;90 Test électrique Flex 2 C A;90 Test électrique Flex 2 C A
-06/03/2025;Scrap;Process;Matin;20 VW000037397 PPC FLEX 2;Flex2;N56 Soudure self éclaté;2;60 soudure électrique self / shunt  sur lame Flex2 C A;60 soudure électrique self / shunt  sur lame Flex2 C A
-06/03/2025;Scrap;Process;Matin;20 VW000037397 PPC FLEX 2;Flex2;NF11 Lame déformée;2;30 Insertion lame/balai sur boitier_Flex 2 P A;110-B Controle finale Flex 2 partie B C A
-06/03/2025;Scrap;Process;Matin;20 VW000037397 PPC FLEX 2;Flex2;NF13 Soudure self  écrasée;3;60 soudure électrique self / shunt  sur lame Flex2 C A;70 MEP condo  + PTH + Retournement boitier Flex 2 C 
-06/03/2025;Scrap;Process;Matin;20 VW000037397 PPC FLEX 2;Flex2;NF12 Mauvais bouterollage lame balai /boitier;9;40 Sertissage lamme boitier et boutrollage Flex-2 C A;42 Mise en place condo axial-Flex2 C 
-06/03/2025;Scrap;Process;Matin;20 VW000037397 PPC FLEX 2;Flex2;NF19 Patte de masse déformée;3;29 Chargement et déchargement boitier sur palette_Flex 2 P A;110-B Controle finale Flex 2 partie B C A
-06/03/2025;Scrap;Process;Matin;20 VW000037397 PPC FLEX 2;Flex2;NF25 Boîtier cassé;2;47 Controle soudure condo axiale et boutrollage C A;110-B Controle finale Flex 2 partie B C A
-06/03/2025;Scrap;Process;Matin;0010 VW000037397SLP PPC FLEX 1;Flex1;NF12 Mauvais bouterollage lame balai;2;40 Bouterollage lame balai sur boitier C A;110_B Controle finale partie B C A
-06/03/2025;Scrap;Process;Matin;0010 VW000037397SLP PPC FLEX 1;Flex1;NF35 Languette tordue;3;29 Chargement - déchargement boitiersur palette P A;110_B Controle finale partie B C A
-06/03/2025;Scrap;Process;Matin;0010 VW000037397SLP PPC FLEX 1;Flex1;NF13 Soudure self  écrasée;4;60 soudure électrique self sur lame C A;70 MEP condo  + Retournement boitier C A
-06/03/2025;Scrap;Process;Matin;0010 VW000037397SLP PPC FLEX 1;Flex1;NF25 Boîtier cassé;1;29 Chargement - déchargement boitiersur palette P A;110_B Controle finale partie B C A
-06/03/2025;Scrap;Process;Matin;0010 VW000037397SLP PPC FLEX 1;Flex1;NF48 Marquage décalé;1;90 Test électrique C A;90 Test électrique C A
-06/03/2025;Scrap;Process;Matin;0010 VW000037397SLP PPC FLEX 1;Flex1;NF19 Patte de masse déformée;1;29 Chargement - déchargement boitiersur palette P A;110_B Controle finale partie B C A
-06/03/2025;Scrap;Process;Matin;E1148728-001 E1148728-001 BACK UP ANTENNA K0;back up antenna;2 Manque matière LPM;5;60 BUA  LPM C A;60 BUA  LPM C A
-06/03/2025;Scrap;Process;Matin;5997878 V503.773 CM4-Ligne 2;CM3-CM4 Ligne 2;C24 Marquage non conforme;2;2.175 controle vision C A;2.175 controle vision C A
-06/03/2025;Scrap;Process;Matin;5997878 V503.773 CM4-Ligne 2;CM3-CM4 Ligne 2;C8.3 vernis sur boitier;1;2.115 vernissage automatique C A;2.115 vernissage automatique C A
-06/03/2025;Scrap;Process;Matin;5997878 V503.773 CM4-Ligne 2;CM3-CM4 Ligne 2;C10 PDM endommagée;2;2.105 controle etain +rework C A;2.105 controle etain +rework C A
-06/03/2025;Scrap;Process;Matin;10 VW000035923BRA PPC MNG2 2L2C;Mng 2.1;MN01 plaquette cassée;1;60 soudure étain manuelle C A;60 soudure étain manuelle C A
-06/03/2025;Scrap;Process;Matin;10 VW000035923BRA PPC MNG2 2L2C;Mng 2.1;MN01 plaquette cassée;1;120_59 poste de montage reteneur P B;120_59 poste de montage reteneur P B
-06/03/2025;Scrap;Process;Matin;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;7;150 Test force GENIIC C B;150 Test force GENIIC C B
-06/03/2025;Scrap;Process;Matin;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 05 Murée cassé;2;80 sertissage guides GEN2 C C A;90 soudure électrique balais 1 et self 1 C A
-06/03/2025;Scrap;Process;Matin;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 08 guide mal sertie;1;80 sertissage guides GEN2 C C A;160 Test électrique et controle caméra GENII C C B
-06/03/2025;Scrap;Réglage;Matin;154 VA18116507G B8;B8;NF06 soudure connecteur éclaté;2;30 soudure connecteur sur platine C B;30 soudure connecteur sur platine C B
-06/03/2025;Scrap;Process;Matin;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;7;150 Test force GENIIC C B;150 Test force GENIIC C B
-06/03/2025;Scrap;Process;Matin;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 05 Murée cassé;2;80 sertissage guides GEN2 C C A;90 soudure électrique balais 1 et self 1 C A
-06/03/2025;Scrap;Process;Matin;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 08 guide mal sertie;1;80 sertissage guides GEN2 C C A;160 Test électrique et controle caméra GENII C C B
-06/03/2025;Scrap;Process;Matin;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF21 balai cassé;1;150 Test force GENIIC C B;170 Controle Finale GENII C C B
-06/03/2025;Scrap;Process;Matin;95 VA14106710A T7;T7;NF04 soudure tresse éclaté;1;70 soudure 2 balais N°1 C B;70 soudure 2 balais N°1 C B
-06/03/2025;Scrap;Process;Matin;95 VA14106710A T7;T7;NF28 condo écrasé;2;20 soudure condo sur connecteur C B;20 soudure condo sur connecteur C B
-06/03/2025;Scrap;Process;Matin;01-magna CL V505-927 505-927;DCK;NF01 Bakelite cassé;8;210 test électrique C B;210 test électrique C B
-06/03/2025;Scrap;Process;Matin;01-magna CL V505-927 505-927;DCK;NF04 soudure self connexion1 écrsé;5;180 soudure self /terminal 2 C B;180 soudure self /terminal 2 C B
-06/03/2025;Scrap;Process;Matin;01-magna CL V505-927 505-927;DCK;NF06-magna soudure diode-tresse écraser;2;Ph 205 Magna Soudure balai-Diode P B;PH 195 Magna Pliage et soudure diode-shunt C A
-06/03/2025;Scrap;Réglage;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;NF04 Boitier endommagée;1;2.55 sertissage de 2 contacts +fourchette C A;2.35 retournement C A
-06/03/2025;Scrap;Process;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;NF03 Pin tordue;22;2.55 sertissage de 2 contacts +fourchette C A;2.10 chargement et déchargement C A
-06/03/2025;Scrap;Lot à défaut;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;NF02 Mauvaise soudure self tresse;11;10B soudure self tresse soudure self tresse C A;51 controle préparation C A
-06/03/2025;Scrap;Lot à défaut;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;NF02 Mauvaise soudure self tresse;13;10B soudure self tresse soudure self tresse C A;50- montage self/balais sur boitier C A
-06/03/2025;Scrap;Process;A Midi;07 420291 NEM2 DUP V420291-nem2 dup BC NEM II;NEM 2 dup;NF09 patte de masse tordue;5;100 Boutollage PDM P A;100 Boutollage PDM P A
-06/03/2025;Scrap;Process;A Midi;07 420291 NEM2 DUP V420291-nem2 dup BC NEM II;NEM 2 dup;NF08 marquage illisible;4;120 identification de pièce par marquage P A;120 identification de pièce par marquage P A
-06/03/2025;Scrap;Process;A Midi;08 420290 NEM2 DUP V420290-nem2 dup NEM II;NEM 2 dup;NF09 patte de masse tordue;3;100 Boutollage PDM P A;110 Mise en place des ressorts P A
-06/03/2025;Scrap;Réglage;A Midi;03 V420284-sim 2 SIM II;sim 2;NF05 boitier cassé;5;40 insertion rotule C A;40 insertion rotule C A
-06/03/2025;Scrap;Process;A Midi;03 V420284-sim 2 SIM II;sim 2;61 soudure condo coupé;2;50 montage manuelle de s/e C A;50 montage manuelle de s/e C A
-06/03/2025;Scrap;Réglage;A Midi;03 VW000092467SLP-GEN2 Réversible PPC GEN2;GEN2 Réversible;NF 40 Muret cassé;2;70 Botrollage C A;70 Botrollage C A
-06/03/2025;Scrap;Process;A Midi;03 VW000092467SLP-GEN2 Réversible PPC GEN2;GEN2 Réversible;NF02 Data matrix NC;1;80 test electrique et controle caméra C A;80 test electrique et controle caméra C A
-06/03/2025;Scrap;Process;A Midi;0010 VW000037397POL PPC FLEX 1;Flex1;NF13 Soudure self  écrasée;9;60 soudure électrique self sur lame C A;70 MEP condo  + Retournement boitier C A
-06/03/2025;Scrap;Process;A Midi;0010 VW000037397POL PPC FLEX 1;Flex1;NF11 Lame déformée;4;90 Test électrique C A;29 Chargement - déchargement boitiersur palette P A
-06/03/2025;Scrap;Process;A Midi;0010 VW000037397POL PPC FLEX 1;Flex1;NF12 Mauvais bouterollage lame balai;5;40 Bouterollage lame balai sur boitier C A;42 Mise en place condo axial C 
-06/03/2025;Scrap;Process;A Midi;5654 VM4 Tour Continue 2 condos céramiques 50V VM4 Tower;VM4 Partie A;16 Tour brûlée;8;20 robot  de brasage P A;20 robot  de brasage P A
-06/03/2025;Scrap;Process;A Midi;47 W000072687POL AUTO1 PPC VM4/ HORAIRE;VM4 AUTO I;NF08 bakélite cassé;2; montage composants sur convoyeur P A;110 soudure électrique tresse balais et 3éme self P A
-06/03/2025;Scrap;Process;A Midi;47 W000072687POL AUTO1 PPC VM4/ HORAIRE;VM4 AUTO I;NF16 soudure écrasé;4;130 soudure électrique 3éme self & PDM P A;130 soudure électrique 3éme self & PDM P A
-06/03/2025;Scrap;Process;A Midi;10 VW000035923BRA PPC MNG2 2L2C;Mng 2.1;MN01 plaquette cassée;1;140 _60 Test électrique P B;140 _60 Test électrique P B
-06/03/2025;Scrap;Process;A Midi;10 VW000035923BRA PPC MNG2 2L2C;Mng 2.1;MN01 plaquette cassée;1;90 POSTE DE CONTRÔLE PARTIE A C A;90 POSTE DE CONTRÔLE PARTIE A C A
-06/03/2025;Scrap;Réglage;A Midi;10 W000035923BRA_deshuntage des plaquettes PPC MNG2 2L2C;Mng 2.1;MN01 plaquette cassée;1;10_44 Sertissage et deshuntage des plaquettes sur la piste_44 C A;10_44 Sertissage et deshuntage des plaquettes sur la piste_44 C A
-06/03/2025;Scrap;Process;A Midi;20 VW000037397POL PPC FLEX 2;Flex2;N56 Soudure self éclaté;2;60 soudure électrique self / shunt  sur lame Flex2 C A;70 MEP condo  + PTH + Retournement boitier Flex 2 C 
-06/03/2025;Scrap;Process;A Midi;20 VW000037397POL PPC FLEX 2;Flex2;NF12 Mauvais bouterollage lame balai /boitier;4;40 Sertissage lamme boitier et boutrollage Flex-2 C A;42 Mise en place condo axial-Flex2 C 
-06/03/2025;Scrap;Process;A Midi;20 VW000037397POL PPC FLEX 2;Flex2;NF43 soudure condo écrasé;6;44 Boutrollage condo axial-Flex 2 C A;47 Controle soudure condo axiale et boutrollage C A
-06/03/2025;Scrap;Process;A Midi;10 VW000035923BRA PPC MNG2 2L2C;Mng 2.2;MN01 plaquette cassée;1;140 _61 Test électrique C A;160 POSTE DE CONTRÔLE PARTIE B C A
-06/03/2025;Scrap;Process;A Midi;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C4.2 Fourchette (2) endommagé;6;2.160 soudure fourchette /ICH/ resistance/ condo C A;2.185 controle aspect soudure A2 controle aspect soudure C A
-06/03/2025;Scrap;Process;A Midi;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C8.3 vernis sur boitier;5;2.115 vernissage automatique C A;2.180 controle aspect soudure A1 controle aspect soudure C A
-06/03/2025;Scrap;Formation;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;P10.B PDM endommagé;13;2.30 sertissage automatique de 2 inserts+patte de masse C A;2.35 retournement C A
-07/03/2025;Scrap;Formation;Nuit;10 VW000054852 PPC FLEX;Flex2;NF12 Mauvais bouterollage lame balai /boitier;16;30 Insertion lame/balai sur boitier_Flex 2 P A;50 Mise en place self / shunt Flex-2 C A
-07/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;N55 Mauvaise  marquage;7;90 Test électrique Flex 2 C A;110 poste de contrôle final Flex 2 C A
-07/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF11 Lame déformée;7;30 Insertion lame/balai sur boitier_Flex 2 P A;110 poste de contrôle final Flex 2 C A
-07/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF03 Self mal plaquée haut;2;50 Mise en place self / shunt Flex-2 C A;110 poste de contrôle final Flex 2 C A
-07/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;N56 Soudure self éclaté;3;60 soudure électrique self / shunt  sur lame Flex2 C A;70 MEP condo  + Retournement boitier C A
-07/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF13 Soudure self  écrasée;4;60 soudure électrique self / shunt  sur lame Flex2 C A;70 MEP condo  + Retournement boitier C A
-07/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF25 Boîtier cassé;1;90 Test électrique Flex 2 C A;90 Test électrique Flex 2 C A
-07/03/2025;Scrap;Lot à défaut;Nuit;8451244 VW000095163SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 05 Murée cassé;1;160 Test électrique et controle caméra GENII C C B;170 Controle Finale GENII C C B
-07/03/2025;Scrap;Process;Nuit;8451244 VW000095163SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 52 Soudure self éclaté;2;130 soudure électrique contact self 3 OU PTH SELF C A;130 soudure électrique contact self 3 OU PTH SELF C A
-07/03/2025;Scrap;Process;Nuit;8451244 VW000095163SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 52 Soudure self éclaté;1;90 soudure électrique balais 1 et self 1 C A;90 soudure électrique balais 1 et self 1 C A
-07/03/2025;Scrap;Process;Nuit;8451244 VW000095163SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF59 Effort ressort non conforme;13;150 Test force GENIIC C B;150 Test force GENIIC C B
-07/03/2025;Scrap;Réglage;Matin;5655 VM4 Tour Continue 3 condos VM4 Tower;VM4 Partie A;16 Tour brûlée;7;20 robot  de brasage P A;20 robot  de brasage P A
-07/03/2025;Scrap;Process;Matin;06 W000051919POL AUTO1 PPC VM4/ANTI HORAIRE;VM4 AUTO I;NF09 contact déformé;3; boutrollage et test électrique et caméra P A; boutrollage et test électrique et caméra P A
-07/03/2025;Scrap;Process;Matin;0010 VW000037397POL PPC FLEX 1;Flex1;NF58 Mauvaise marquage;2;90 Test électrique C A;90 Test électrique C A
-07/03/2025;Scrap;Process;Matin;0010 VW000037397POL PPC FLEX 1;Flex1;NF13 Soudure self  écrasée;3;60 soudure électrique self sur lame C A;70 MEP condo  + Retournement boitier C A
-07/03/2025;Scrap;Process;Matin;0010 VW000037397POL PPC FLEX 1;Flex1;NF12 Mauvais bouterollage lame balai;1;40 Bouterollage lame balai sur boitier C A;40 Bouterollage lame balai sur boitier C A
-07/03/2025;Scrap;Process;Matin;0010 VW000037397POL PPC FLEX 1;Flex1;NF35 Languette tordue;1;29 Chargement - déchargement boitiersur palette P A;80 Soudure à l'étain C A
-07/03/2025;Scrap;Process;Matin;0010 VW000037397POL PPC FLEX 1;Flex1;NF11 Lame déformée;2;90 Test électrique C A;90 Test électrique C A
-07/03/2025;Scrap;Process;Matin;0010 VW000037397POL PPC FLEX 1;Flex1;NF24 Self déformée;1;50 Montage self / lame C A;70 MEP condo  + Retournement boitier C A
-07/03/2025;Scrap;Process;Matin;71 W256713POL AUTO1 PPC VM4/ANTI HORAIRE;VM4 AUTO I;NF09 contact déformé;2; boutrollage et test électrique et caméra P A; montage composants sur convoyeur P A
-07/03/2025;Scrap;Réglage;Matin;71 W256713POL AUTO1 PPC VM4/ANTI HORAIRE;VM4 AUTO I;NF16 soudure écrasé;4; soudure électrique PTH & PDM P A; soudure électrique PTH & PDM P A
-07/03/2025;Scrap;Process;Matin;E1148728-001 E1148728-001 BACK UP ANTENNA K0;back up antenna;2 Manque matière LPM;3;60 BUA  LPM C A;60 BUA  LPM C A
-07/03/2025;Scrap;Process;Matin;E1148728-001 E1148728-001 BACK UP ANTENNA K0;back up antenna;12 Fil coupée Wrapping  1;2;45 BUA controle vision P A;40 BUA Soudure étain des terminals P A
-07/03/2025;Scrap;Process;Matin;E1148728-001 E1148728-001 BACK UP ANTENNA K0;back up antenna;17 Boule d'étain;2;45 BUA controle vision P A;40 BUA Soudure étain des terminals P A
-07/03/2025;Scrap;Process;Matin;20 VW000037397POL PPC FLEX 2;Flex2;N55 Mauvaise  marquage;1;90 Test électrique Flex 2 C A;110-B Controle finale Flex 2 partie B C A
-07/03/2025;Scrap;Process;Matin;20 VW000037397POL PPC FLEX 2;Flex2;N56 Soudure self éclaté;2;60 soudure électrique self / shunt  sur lame Flex2 C A;60 soudure électrique self / shunt  sur lame Flex2 C A
-07/03/2025;Scrap;Process;Matin;20 VW000037397POL PPC FLEX 2;Flex2;NF12 Mauvais bouterollage lame balai /boitier;3;40 Sertissage lamme boitier et boutrollage Flex-2 C A;42 Mise en place condo axial-Flex2 C 
-07/03/2025;Scrap;Process;Matin;20 VW000037397POL PPC FLEX 2;Flex2;NF11 Lame déformée;3;30 Insertion lame/balai sur boitier_Flex 2 P A;110-B Controle finale Flex 2 partie B C A
-07/03/2025;Scrap;Process;Matin;20 VW000037397POL PPC FLEX 2;Flex2;NF13 Soudure self  écrasée;1;60 soudure électrique self / shunt  sur lame Flex2 C A;110-B Controle finale Flex 2 partie B C A
-07/03/2025;Scrap;Formation;Matin;20 VW000037397POL PPC FLEX 2;Flex2;NF19 Patte de masse déformée;6;29 Chargement et déchargement boitier sur palette_Flex 2 P A;110-A controle finale Flex 2 partie A C A
-07/03/2025;Scrap;Formation;Matin;20 VW000037397POL PPC FLEX 2;Flex2;NF43 soudure condo écrasé;4;47 Controle soudure condo axiale et boutrollage C A;110-B Controle finale Flex 2 partie B C A
-07/03/2025;Scrap;Réglage;Matin;203 VA13116602B 11TA;11TA1;NF42 faisceau écrasé;2;160 soudure fil N°2 C B;160 soudure fil N°2 C B
-07/03/2025;Scrap;Process;Matin;006 W000007073 PPC First plastique;F.P;F01 Self déformée;23;70 Verrouillage self / tresse P B;120 Déchargement palette P B
-07/03/2025;Scrap;Process;Matin;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;8;150 Test force GENIIC C B;150 Test force GENIIC C B
-07/03/2025;Scrap;Process;Matin;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 05 Murée cassé;1;160 Test électrique et controle caméra GENII C C B;170 Controle Finale GENII C C B
-07/03/2025;Scrap;Process;Matin;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 05 Murée cassé;3;80 sertissage guides GEN2 C C A;90 soudure électrique balais 1 et self 1 C A
-07/03/2025;Scrap;Process;Matin;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 05 Murée cassé;2;80 sertissage guides GEN2 C C A;80 sertissage guides GEN2 C C A
-07/03/2025;Scrap;Process;Matin;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF43 soudure self contact écrasé;1;130 soudure électrique contact self 3 OU PTH SELF C A;130 soudure électrique contact self 3 OU PTH SELF C A
-07/03/2025;Scrap;Process;Matin;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;8;150 Test force GENIIC C B;150 Test force GENIIC C B
-07/03/2025;Scrap;Process;Matin;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 05 Murée cassé;1;160 Test électrique et controle caméra GENII C C B;170 Controle Finale GENII C C B
-07/03/2025;Scrap;Process;Matin;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 05 Murée cassé;3;80 sertissage guides GEN2 C C A;90 soudure électrique balais 1 et self 1 C A
-07/03/2025;Scrap;Process;Matin;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 05 Murée cassé;2;80 sertissage guides GEN2 C C A;80 sertissage guides GEN2 C C A
-07/03/2025;Scrap;Process;Matin;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF43 soudure self contact écrasé;1;130 soudure électrique contact self 3 OU PTH SELF C A;130 soudure électrique contact self 3 OU PTH SELF C A
-07/03/2025;Scrap;Process;Matin;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C4.2 Fourchette (2) endommagé;3;2.160 soudure fourchette /ICH/ resistance/ condo C A;2.170 test electrique C A
-07/03/2025;Scrap;Process;Matin;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C4.3 Fourchette (3) endommagé;1;2.165 soudure fourchette /ICHall/ resistance C A;2.170 test electrique C A
-07/03/2025;Scrap;Process;Matin;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C9 Boitier endommagé;1;2.155 soudure fourchette /ICH/ condo C A;2.170 test electrique C A
-07/03/2025;Scrap;Process;Matin;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C24 Marquage non conforme;1;2.175 controle vision C A;2.175 controle vision C A
-07/03/2025;Scrap;Process;Matin;44 W447251BRA PPC MNG2;Mng 2.1;MN01 plaquette cassée;1;60 soudure étain manuelle C A;60 soudure étain manuelle C A
-07/03/2025;Scrap;Process;Matin;01 VW447251BRA PPC MNG2 2L2C;Mng 2.2;MN01 plaquette cassée;1;120_58 poste de montage reteneur P B;120_58 poste de montage reteneur P B
-07/03/2025;Scrap;Process;A Midi;5454 V503.905 503.905;DCK;NF01 Bakelite cassé;8;70 montage balai guide C B;70 montage balai guide C B
-07/03/2025;Scrap;Process;A Midi;5454 V503.905 503.905;DCK;NF04 soudure self connexion1 écrsé;4;170 soudure self terminal 1 C B;160 montage 2 selfs /soudure self connection C B
-07/03/2025;Scrap;Process;A Midi;5454 V503.905 503.905;DCK;NF10 guide mal serti;4;70 montage balai guide C B;70 montage balai guide C B
-07/03/2025;Scrap;Process;A Midi;0057 V502.630 T7;T7;NF02 soudure self éclaté;2;60 soudure self fusible (self N°2) C B;60 soudure self fusible (self N°2) C B
-07/03/2025;Scrap;Réglage;A Midi;03 V420284-sim 2 SIM II;sim 2;NF05 boitier cassé;5;40 insertion rotule C A;40 insertion rotule C A
-07/03/2025;Scrap;Process;A Midi;07 420291 NEM2 DUP V420291-nem2 dup BC NEM II;NEM 2 dup;NF09 patte de masse tordue;5;100 Boutollage PDM P A;110 Mise en place des ressorts P A
-07/03/2025;Scrap;Process;A Midi;71 W256713POL AUTO1 PPC VM4/ANTI HORAIRE;VM4 AUTO I;NF08 bakélite cassé;2; montage composants sur convoyeur P A; boutrollage et test électrique et caméra P A
-07/03/2025;Scrap;Process;A Midi;71 W256713POL AUTO1 PPC VM4/ANTI HORAIRE;VM4 AUTO I;NF16 soudure écrasé;2; soudure électrique PTH & PDM P A; soudure électrique PTH & PDM P A
-07/03/2025;Scrap;Process;A Midi;71 W256713POL AUTO1 PPC VM4/ANTI HORAIRE;VM4 AUTO I;NF25 reteneur.. cassé;5; montage composants sur convoyeur P A; montage composants sur convoyeur P A
-07/03/2025;Scrap;Process;A Midi;71 W256713POL AUTO1 PPC VM4/ANTI HORAIRE;VM4 AUTO I;NF09 contact déformé;2; montage composants sur convoyeur P A; boutrollage et test électrique et caméra P A
-07/03/2025;Scrap;Process;A Midi;71 W256713POL AUTO1 PPC VM4/ANTI HORAIRE;VM4 AUTO I;NF26 rivet mal serti;2; montage composants sur convoyeur P A; montage composants sur convoyeur P A
-07/03/2025;Scrap;Process;A Midi;5656 VM4 Tour Continue 2 CAPA GEN2 + CONDO VM4 Tower;VM4 Partie A;16 Tour brûlée;8;20 robot  de brasage P A;20 robot  de brasage P A
-07/03/2025;Scrap;Process;A Midi;0010 VW000037397POL PPC FLEX 1;Flex1;NF13 Soudure self  écrasée;12;60 soudure électrique self sur lame C A;70 MEP condo  + Retournement boitier C A
-07/03/2025;Scrap;Process;A Midi;0010 VW000037397POL PPC FLEX 1;Flex1;NF48 Marquage décalé;5;90 Test électrique C A;29 Chargement - déchargement boitiersur palette P A
-07/03/2025;Scrap;Process;A Midi;0010 VW000037397POL PPC FLEX 1;Flex1;NF11 Lame déformée;6;90 Test électrique C A;90 Test électrique C A
-07/03/2025;Scrap;Process;A Midi;0010 VW000037397POL PPC FLEX 1;Flex1;NF12 Mauvais bouterollage lame balai;4;40 Bouterollage lame balai sur boitier C A;42 Mise en place condo axial C 
-07/03/2025;Scrap;Process;A Midi;20 VW000037397POL PPC FLEX 2;Flex2;NF12 Mauvais bouterollage lame balai /boitier;3;40 Sertissage lamme boitier et boutrollage Flex-2 C A;50 Mise en place self / shunt Flex-2 C A
-07/03/2025;Scrap;Process;A Midi;20 VW000037397POL PPC FLEX 2;Flex2;NF49 mauvais bouterollage condo axial;10;47 Controle soudure condo axiale et boutrollage C A;50 Mise en place self / shunt Flex-2 C A
-07/03/2025;Scrap;Process;A Midi;20 VW000037397POL PPC FLEX 2;Flex2;NF18 Double marquage;2;90 Test électrique Flex 2 C A;90 Test électrique Flex 2 C A
-08/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;N55 Mauvaise  marquage;12;90 Test électrique Flex 2 C A;110 poste de contrôle final Flex 2 C A
-08/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF03 Self mal plaquée haut;1;60 soudure électrique self / shunt  sur lame Flex2 C A;110 poste de contrôle final Flex 2 C A
-08/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF13 Soudure self  écrasée;4;60 soudure électrique self / shunt  sur lame Flex2 C A;70 MEP condo  + Retournement boitier C A
-08/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF08 Piste tordue;1;110 poste de contrôle final Flex 2 C A;110 poste de contrôle final Flex 2 C A
-08/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF11 Lame déformée;12;30 Insertion lame/balai sur boitier_Flex 2 P A;110 poste de contrôle final Flex 2 C A
-08/03/2025;Scrap;Formation;Nuit;10 VW000054852 PPC FLEX;Flex2;NF12 Mauvais bouterollage lame balai /boitier;30;40 Sertissage lamme boitier et boutrollage Flex-2 C A;50 Mise en place self / shunt Flex-2 C A
-08/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;N55 Mauvaise  marquage;12;90 Test électrique Flex 2 C A;110 poste de contrôle final Flex 2 C A
-08/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF03 Self mal plaquée haut;1;60 soudure électrique self / shunt  sur lame Flex2 C A;110 poste de contrôle final Flex 2 C A
-08/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF13 Soudure self  écrasée;4;60 soudure électrique self / shunt  sur lame Flex2 C A;70 MEP condo  + Retournement boitier C A
-08/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF08 Piste tordue;1;110 poste de contrôle final Flex 2 C A;110 poste de contrôle final Flex 2 C A
-08/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF11 Lame déformée;12;30 Insertion lame/balai sur boitier_Flex 2 P A;110 poste de contrôle final Flex 2 C A
-08/03/2025;Scrap;Formation;Nuit;10 VW000054852 PPC FLEX;Flex2;NF12 Mauvais bouterollage lame balai /boitier;30;40 Sertissage lamme boitier et boutrollage Flex-2 C A;50 Mise en place self / shunt Flex-2 C A
-08/03/2025;Scrap;Process;Nuit;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF59 Effort ressort non conforme;16;150 Test force GENIIC C B;150 Test force GENIIC C B
-08/03/2025;Scrap;Lot à défaut;Nuit;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF05 Murée cassé;2;150 Test force GENIIC C B;150 Test force GENIIC C B
-08/03/2025;Scrap;Process;Nuit;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF16 languettes cassés;1;130 soudure électrique contact self 3 OU PTH SELF C A;150 Test force GENIIC C B
-08/03/2025;Scrap;Process;Nuit;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 08 guide mal sertie;1;80 sertissage guides GEN2 C C A;130 soudure électrique contact self 3 OU PTH SELF C A
-08/03/2025;Scrap;Process;Nuit;558 VW000095163POL-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF36 soudure condo/terminaux écrasé;1;30 soudure électrique condo 1 & terminal 1 C A;170 Controle Finale GENII C C B
-08/03/2025;Scrap;Process;Matin;302 W000051919POL AUTO2 PPC VM4/ANTI HORAIRE;VM4 AUTO II;NF09 contact déformé;3;100-155 montage composants sur palettes C A;100-155 montage composants sur palettes C A
-08/03/2025;Scrap;Process;Matin;007 53343106 PPC First plastique;F.P;F01 Self déformée;15;70 Verrouillage self / tresse P B;120 Déchargement palette P B
-08/03/2025;Scrap;Réglage;Matin;47 W000072687POL AUTO1 PPC VM4/ HORAIRE;VM4 AUTO I;NF09 contact déformé;4; boutrollage et test électrique et caméra P A; Controle finale C A
-08/03/2025;Scrap;Réglage;Matin;016 53343106 V53343106 PPC_F.P;F.P;40 Platine cassé;2;190 Poste d'enfonçage ressort et coulissement balai C A;190 Poste d'enfonçage ressort et coulissement balai C A
-08/03/2025;Scrap;Process;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;NF 01 Balai cassé;58;50- montage self/balais sur boitier C A;51 controle préparation C A
-08/03/2025;Scrap;Process;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;NF02 Mauvaise soudure self tresse;28;10B soudure self tresse soudure self tresse C A;51 controle préparation C A
-08/03/2025;Scrap;Process;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;NF04 Boitier endommagée;4;2.55 sertissage de 2 contacts +fourchette C A;2.35 retournement C A
-08/03/2025;Scrap;Process;Matin;015 V503.996 503.996;DCK;NF01 Bakelite cassé;5;70 montage guide balai C B;70 montage guide balai C B
-08/03/2025;Scrap;Process;Matin;015 V503.996 503.996;DCK;NF04 soudure self connexion1 écrsé;5;170 soudure  self connection 2 C B;170 soudure  self connection 2 C B
-08/03/2025;Scrap;Process;Matin;0010 VW000037397POL PPC FLEX 1;Flex1;NF58 Mauvaise marquage;6;90 Test électrique C A;90 Test électrique C A
-08/03/2025;Scrap;Process;Matin;0010 VW000037397POL PPC FLEX 1;Flex1;NF25 Boîtier cassé;1;90 Test électrique C A;90 Test électrique C A
-08/03/2025;Scrap;Process;Matin;0010 VW000037397POL PPC FLEX 1;Flex1;NF48 Marquage décalé;2;90 Test électrique C A;90 Test électrique C A
-08/03/2025;Scrap;Process;Matin;0010 VW000037397POL PPC FLEX 1;Flex1;NF13 Soudure self  écrasée;3;60 soudure électrique self sur lame C A;70 MEP condo  + Retournement boitier C A
-08/03/2025;Scrap;Process;Matin;0010 VW000037397POL PPC FLEX 1;Flex1;NF35 Languette tordue;2;29 Chargement - déchargement boitiersur palette P A;80 Soudure à l'étain C A
-08/03/2025;Scrap;Process;Matin;0010 VW000037397POL PPC FLEX 1;Flex1;NF19 Patte de masse déformée;2;29 Chargement - déchargement boitiersur palette P A; CF partie B C A
-08/03/2025;Scrap;Process;Matin;20 VW000037397POL PPC FLEX 2;Flex2;N55 Mauvaise  marquage;2;90 Test électrique Flex 2 C A;110-B Controle finale Flex 2 partie B C A
-08/03/2025;Scrap;Process;Matin;20 VW000037397POL PPC FLEX 2;Flex2;NF11 Lame déformée;2;15-1045 Assemblage balai / Lame ressort C A;110-B Controle finale Flex 2 partie B C A
-08/03/2025;Scrap;Process;Matin;20 VW000037397POL PPC FLEX 2;Flex2;NF12 Mauvais bouterollage lame balai /boitier;6;40 Sertissage lamme boitier et boutrollage Flex-2 C A;42 Mise en place condo axial-Flex2 C 
-08/03/2025;Scrap;Process;Matin;20 VW000037397POL PPC FLEX 2;Flex2;NF19 Patte de masse déformée;2;29 Chargement et déchargement boitier sur palette_Flex 2 P A;110-B Controle finale Flex 2 partie B C A
-08/03/2025;Scrap;Réglage;Matin;20 VW000037397POL PPC FLEX 2;Flex2;NF25 Boîtier cassé;25;29 Chargement et déchargement boitier sur palette_Flex 2 P A;44 Boutrollage condo axial-Flex 2 C A
-08/03/2025;Scrap;Réglage;Matin;216 VA10116386N 11TA;11TA1;NF02 soudure self éclaté;3;60 soudure self N°1 C B;60 soudure self N°1 C B
-08/03/2025;Scrap;Process;Matin;12 VW151616 PPC MNG2 2L2C;Mng 2.2;MN01 plaquette cassée;2;60 soudure étain manuelle C A;60 soudure étain manuelle C A
-08/03/2025;Scrap;Process;Matin;154 VA18116507G B8;B8;NF16 Platine cassé;1;10 déschuntage platine C B;40 soudure condo sur platine C B
-08/03/2025;Scrap;Process;Matin;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C4.2 Fourchette (2) endommagé;3;2.160 soudure fourchette /ICH/ resistance/ condo C A;2.170 test electrique C A
-08/03/2025;Scrap;Process;Matin;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C18.3 Mauvaise soudure self/contact;3;2.70 soudure contact/PTH  C A;2.85 Montage PCB C A
-08/03/2025;Scrap;Process;Matin;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C4.1 Fourchette (1) endommagé;3;2.165 soudure fourchette /ICHall/ resistance C A;2.170 test electrique C A
-08/03/2025;Scrap;Process;Matin;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C10 PDM endommagée;2;2.90/95/101 soudure etain manuelle C A;2.115 vernissage automatique C A
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;25;150 Test force GENIIC C B;150 Test force GENIIC C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF39 soudure condo/EMC écrasé;4;50 Soudure électrique de 2 pattes condo et contact EMC C A;170 Controle Finale GENII C C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF49 contact négatif mal plaqué;1;20 insertion contact GND et Terminaux au platine C A;170 Controle Finale GENII C C B
-08/03/2025;Scrap;Process;Matin;0057 V502.630 T7;T7;NF16 Platine cassé;1;10 déschuntage platine C B;80 soudure 2 tresses n°2 C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;25;150 Test force GENIIC C B;150 Test force GENIIC C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF39 soudure condo/EMC écrasé;4;50 Soudure électrique de 2 pattes condo et contact EMC C A;170 Controle Finale GENII C C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF49 contact négatif mal plaqué;1;20 insertion contact GND et Terminaux au platine C A;170 Controle Finale GENII C C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;25;150 Test force GENIIC C B;150 Test force GENIIC C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF39 soudure condo/EMC écrasé;4;50 Soudure électrique de 2 pattes condo et contact EMC C A;170 Controle Finale GENII C C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF49 contact négatif mal plaqué;1;20 insertion contact GND et Terminaux au platine C A;170 Controle Finale GENII C C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;25;150 Test force GENIIC C B;150 Test force GENIIC C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF39 soudure condo/EMC écrasé;4;50 Soudure électrique de 2 pattes condo et contact EMC C A;170 Controle Finale GENII C C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF49 contact négatif mal plaqué;1;20 insertion contact GND et Terminaux au platine C A;170 Controle Finale GENII C C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;25;150 Test force GENIIC C B;150 Test force GENIIC C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF39 soudure condo/EMC écrasé;4;50 Soudure électrique de 2 pattes condo et contact EMC C A;170 Controle Finale GENII C C B
-08/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF49 contact négatif mal plaqué;1;20 insertion contact GND et Terminaux au platine C A;170 Controle Finale GENII C C B
-08/03/2025;Scrap;Lot à défaut;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;NF02 Mauvaise soudure self tresse;18;10B soudure self tresse soudure self tresse C A;50- montage self/balais sur boitier C A
-08/03/2025;Scrap;Lot à défaut;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;NF02 Mauvaise soudure self tresse;18;10B soudure self tresse soudure self tresse C A;51 controle préparation C A
-08/03/2025;Scrap;Process;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;P10.B PDM endommagé;6;2.30 sertissage automatique de 2 inserts+patte de masse C A;2.35 retournement C A
-08/03/2025;Scrap;Réglage;A Midi;03 V420284-sim 2 SIM II;sim 2;NF05 boitier cassé;5;40 insertion rotule C A;40 insertion rotule C A
-08/03/2025;Scrap;Process;A Midi;5653 VM4 Tour Continue 2 condos 63V VM4 Tower;VM4 Partie A;16 Tour brûlée;7;20 robot de brasage C A;20 robot de brasage C A
-08/03/2025;Scrap;Process;A Midi;36 W000051918 AUTO1 PPC VM4/HOARAIRE;VM4 AUTO I;NF08 bakélite cassé;3; montage composants sur convoyeur P A; soudure électrique PTH & PDM P A
-08/03/2025;Scrap;Process;A Midi;36 W000051918 AUTO1 PPC VM4/HOARAIRE;VM4 AUTO I;NF16 soudure écrasé;2; soudure tresse/self M1 P A; soudure tresse/self M1 P A
-08/03/2025;Scrap;Process;A Midi;36 W000051918 AUTO1 PPC VM4/HOARAIRE;VM4 AUTO I;NF25 reteneur.. cassé;4; montage composants sur convoyeur P A; montage composants sur convoyeur P A
-08/03/2025;Scrap;Process;A Midi;36 W000051918 AUTO1 PPC VM4/HOARAIRE;VM4 AUTO I;NF16 soudure écrasé;3;150 soudure électrique 3éme self & PTH P A;150 soudure électrique 3éme self & PTH P A
-08/03/2025;Scrap;Process;A Midi;20 VW000037397POL PPC FLEX 2;Flex2;NF13 Soudure self  écrasée;5;60 soudure électrique self / shunt  sur lame Flex2 C A;70 MEP condo  + PTH + Retournement boitier Flex 2 C 
-08/03/2025;Scrap;Process;A Midi;20 VW000037397POL PPC FLEX 2;Flex2;NF25 Boîtier cassé;4;44 Boutrollage condo axial-Flex 2 C A;47 Controle soudure condo axiale et boutrollage C A
-08/03/2025;Scrap;Pièce par terre;A Midi;03 VW000092467SLP-GEN2 Réversible PPC GEN2;GEN2 Réversible;NF02 Data matrix NC;1;80 test electrique et controle caméra C A;80 test electrique et controle caméra C A
-08/03/2025;Scrap;Process;A Midi;03 VW000092467SLP-GEN2 Réversible PPC GEN2;GEN2 Réversible;NF 40 Muret cassé;1;70 Botrollage C A;70 Botrollage C A
-08/03/2025;Scrap;Lot à défaut;A Midi;03 VW000092467SLP-GEN2 Réversible PPC GEN2;GEN2 Réversible;NF26 soudure self tresse écrasé;2;90 controle finale GEN2 REV P A;90 controle finale GEN2 REV P A
-08/03/2025;Scrap;Process;A Midi;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C24 Marquage non conforme;2;2.175 controle vision C A;2.180 controle aspect soudure A1 controle aspect soudure C A
-08/03/2025;Scrap;Process;A Midi;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C4.3 Fourchette (3) endommagé;1;2.165 soudure fourchette /ICHall/ resistance C A;2.185 controle aspect soudure A2 controle aspect soudure C A
-08/03/2025;Scrap;Process;A Midi;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C4.2 Fourchette (2) endommagé;3;2.160 soudure fourchette /ICH/ resistance/ condo C A;2.185 controle aspect soudure A2 controle aspect soudure C A
-08/03/2025;Scrap;Réglage;A Midi;12 W151616_deshuntage des plaquettes PPC MNG2 2L2C;Mng 2.1;MN01 plaquette cassée;1;10_44 Sertissage et deshuntage des plaquettes sur la piste_44 C A;10_44 Sertissage et deshuntage des plaquettes sur la piste_44 C A
-08/03/2025;Scrap;Process;A Midi;12 VW151616 PPC MNG2 2L2C;Mng 2.1;MN01 plaquette cassée;2;140 _60 Test électrique P B;140 _60 Test électrique P B
-08/03/2025;Scrap;Process;A Midi;12 VW151616 PPC MNG2 2L2C;Mng 2.2;MN01 plaquette cassée;2;120_58 poste de montage reteneur P B;120_58 poste de montage reteneur P B
-08/03/2025;Scrap;Formation;A Midi;12 VW151616 PPC MNG2 2L2C;Mng 2.2;MN09 connecteur mal enclipsé;2;100_56 Poste de pose connecteur et pliage bornes P B;100_56 Poste de pose connecteur et pliage bornes P B
-08/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF13 Soudure self  écrasée;7;60 soudure électrique self sur lame C A;70 MEP condo  + Retournement boitier C A
-08/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF48 Marquage décalé;4;90 Test électrique C A;29 Chargement - déchargement boitiersur palette P A
-08/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF11 Lame déformée;2;90 Test électrique C A;90 Test électrique C A
-08/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF12 Mauvais bouterollage lame balai;5;40 Sertissage lamme boitier et boutrollage C A;42 Mise en place condo axial C 
-08/03/2025;Scrap;Process;A Midi;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 08 guide mal sertie;2;80 sertissage guides GEN2 C C A;170 Controle Finale GENII C C B
-08/03/2025;Scrap;Process;A Midi;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF59 Effort ressort non conforme;9;150 Test force GENIIC C B;150 Test force GENIIC C B
-08/03/2025;Scrap;Process;A Midi;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 01 soudure self terminal ecrasée;1;110 soudure self terminals C A;110 soudure self terminals C A
-10/03/2025;Scrap;Réglage;Matin;03 V420284-sim 2 SIM II;sim 2;NF05 boitier cassé;3;40 insertion rotule C A;40 insertion rotule C A
-10/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF59 Effort ressort non conforme;10;150 Test force GENIIC C B;150 Test force GENIIC C B
-10/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF49 contact négatif mal plaqué;1;20 insertion contact GND et Terminaux au platine C A;170 Controle Finale GENII C C B
-10/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF42 contact négatif déformé;1;80 sertissage guides GEN2 C C A;170 Controle Finale GENII C C B
-10/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF59 Effort ressort non conforme;10;150 Test force GENIIC C B;150 Test force GENIIC C B
-10/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF49 contact négatif mal plaqué;1;20 insertion contact GND et Terminaux au platine C A;170 Controle Finale GENII C C B
-10/03/2025;Scrap;Process;Matin;53655 VW447832SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF42 contact négatif déformé;1;80 sertissage guides GEN2 C C A;170 Controle Finale GENII C C B
-10/03/2025;Scrap;Process;Matin;33 W000040372SLP AUTO1 PPC VM4/HOARAIRE;VM4 AUTO I;NF08 bakélite cassé;3; montage composants sur convoyeur P A; soudure électrique PTH & PDM P A
-10/03/2025;Scrap;Process;Matin;33 W000040372SLP AUTO1 PPC VM4/HOARAIRE;VM4 AUTO I;NF16 soudure écrasé;2; soudure électrique PTH & PDM P A; soudure électrique PTH & PDM P A
-10/03/2025;Scrap;Process;Matin;33 W000040372SLP AUTO1 PPC VM4/HOARAIRE;VM4 AUTO I;NF16 soudure écrasé;3;150 soudure électrique 3éme self & PTH P A;150 soudure électrique 3éme self & PTH P A
-10/03/2025;Scrap;Process;Matin;33 W000040372SLP AUTO1 PPC VM4/HOARAIRE;VM4 AUTO I;NF25 reteneur.. cassé;4; montage composants sur convoyeur P A; montage composants sur convoyeur P A
-10/03/2025;Scrap;Process;Matin;33 W000040372SLP AUTO1 PPC VM4/HOARAIRE;VM4 AUTO I;NF28 pth cassé;1; soudure électrique PTH & PDM P A; soudure électrique PTH & PDM P A
-10/03/2025;Scrap;Réglage;Matin;05 V53343086BRA PPC MNG2 2L2C;Mng 2.2;MN01 plaquette cassée;8;120_58 poste de montage reteneur P B;120_58 poste de montage reteneur P B
-10/03/2025;Scrap;Process;Matin;47 W000068615POL AUTO2 PPC VM4/HORAIRE;VM4 AUTO II;NF08 bakélite cassé;1;100-155 mise en place de composants sur palettes P A; test electrique P A
-10/03/2025;Scrap;Process;Matin;5653 VM4 Tour Continue 2 condos 63V VM4 Tower;VM4 Partie A;16 Tour brûlée;7;20 robot de brasage C A;20 robot de brasage C A
-10/03/2025;Scrap;Process;Matin;007 W000037397 PPC FLEX 1;Flex1;NF48 Marquage décalé;5;90 Test électrique C A;29 Chargement - déchargement boitiersur palette P A
-10/03/2025;Scrap;Process;Matin;007 W000037397 PPC FLEX 1;Flex1;NF11 Lame déformée;3;90 Test électrique C A;29 Chargement - déchargement boitiersur palette P A
-10/03/2025;Scrap;Process;Matin;007 W000037397 PPC FLEX 1;Flex1;NF13 Soudure self  écrasée;7;60 soudure électrique self sur lame C A;70 MEP condo  + Retournement boitier C A
-10/03/2025;Scrap;Process;Matin;007 W000037397 PPC FLEX 1;Flex1;NF12 Mauvais bouterollage lame balai;4;30 Insertion lame/balai sur boitier P A;42 Mise en place condo axial C 
-10/03/2025;Scrap;Process;Matin;10 VW000054852 PPC FLEX;Flex2;NF12 Mauvais bouterollage lame balai /boitier;3;40 Sertissage lamme boitier et boutrollage Flex-2 C A;50 Mise en place self / shunt Flex-2 C A
-10/03/2025;Scrap;Réglage;Matin;007 53343106 PPC First plastique;F.P;40 Platine cassé;7;70 Verrouillage self / tresse P B;120 Déchargement palette P B
-10/03/2025;Scrap;Réglage;Matin;007 53343106 PPC First plastique;F.P;F14 muret cassée;1;70 Verrouillage self / tresse P B;120 Déchargement palette P B
-10/03/2025;Scrap;Process;Matin;007 53343106 PPC First plastique;F.P;F01 Self déformée;20;70 Verrouillage self / tresse P B;120 Déchargement palette P B
-10/03/2025;Scrap;Process;Matin;E1148728-001 E1148728-001 BACK UP ANTENNA K0;back up antenna;2 Manque matière LPM;1;60 BUA  LPM C A;60 BUA  LPM C A
-10/03/2025;Scrap;Process;Matin;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C4.3 Fourchette (3) endommagé;1;2.165 soudure fourchette /ICHall/ resistance C A;2.185 controle aspect soudure A2 controle aspect soudure C A
-10/03/2025;Scrap;Process;Matin;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C4.2 Fourchette (2) endommagé;2;2.160 soudure fourchette /ICH/ resistance/ condo C A;2.185 controle aspect soudure A2 controle aspect soudure C A
-10/03/2025;Scrap;Process;Matin;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C4.1 Fourchette (1) endommagé;2;2.160 soudure fourchette /ICH/ resistance/ condo C A;2.185 controle aspect soudure A2 controle aspect soudure C A
-10/03/2025;Scrap;Process;Matin;136 V878427M B8;B8;NF05 soudure connecteur écrasé;1;30 soudure connecteur sur platine C B;30 soudure connecteur sur platine C B
-10/03/2025;Scrap;Process;Matin;136 V878427M B8;B8;NF28 condo écrasé;1;40 soudure condo sur platine C B;40 soudure condo sur platine C B
-10/03/2025;Scrap;Process;Matin;0057 V502.630 T7;T7;NF09 muré  connecteur cassé;1;30 soudure connecteur sur platine C B;30 soudure connecteur sur platine C B
-10/03/2025;Scrap;Process;Matin;0057 V502.630 T7;T7;NF31 Platine cassé;3;10 déschuntage platine C B;10 déschuntage platine C B
-10/03/2025;Scrap;Réglage;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;NF04 Boitier endommagée;6;2.30 sertissage automatique de 2 inserts+patte de masse C A;2.35 retournement C A
-10/03/2025;Scrap;Lot à défaut;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;NF02 Mauvaise soudure self tresse;25;10B soudure self tresse soudure self tresse C A;50- montage self/balais sur boitier C A
-10/03/2025;Scrap;Lot à défaut;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;NF02 Mauvaise soudure self tresse;16;10B soudure self tresse soudure self tresse C A;51 controle préparation C A
-10/03/2025;Scrap;Process;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;P10.B PDM endommagé;11;2.30 sertissage automatique de 2 inserts+patte de masse C A;2.35 retournement C A
-10/03/2025;Scrap;Process;Matin;015 V503.996 503.996;DCK;NF01 Bakelite cassé;4;210 test électrique C B;210 test électrique C B
-10/03/2025;Scrap;Process;Matin;015 V503.996 503.996;DCK;10 Guide écrasée;3;70 montage guide balai C B;70 montage guide balai C B
-10/03/2025;Scrap;Process;A Midi;06 W000051919POL AUTO1 PPC VM4/ANTI HORAIRE;VM4 AUTO I;NF09 contact déformé;3; boutrollage et test électrique et caméra P A; montage composants sur convoyeur P A
-10/03/2025;Scrap;Process;A Midi;07 420291 NEM2 DUP V420291-nem2 dup BC NEM II;NEM 2 dup;NF09 patte de masse tordue;7;100 Boutollage PDM P A;110 Mise en place des ressorts P A
-10/03/2025;Scrap;Process;A Midi;07 420291 NEM2 DUP V420291-nem2 dup BC NEM II;NEM 2 dup;NF08 marquage illisible;5;120 identification de pièce par marquage P A;120 identification de pièce par marquage P A
-10/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF13 Soudure self  écrasée;2;70 MEP condo  + Retournement boitier C A;110_B Controle finale partie B C A
-10/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF19 Patte de masse déformée;2;29 Chargement - déchargement boitiersur palette P A;110_B Controle finale partie B C A
-10/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF35 Languette tordue;1;29 Chargement - déchargement boitiersur palette P A;80 Soudure à l'étain C A
-10/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF11 Lame déformée;1;90 Test électrique C A;90 Test électrique C A
-10/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF12 Mauvais bouterollage lame balai;1;40 Sertissage lamme boitier et boutrollage C A;42 Mise en place condo axial C 
-10/03/2025;Scrap;Process;A Midi;10 VW000054852 PPC FLEX;Flex2;NF25 Boîtier cassé;1;110 poste de contrôle final Flex 2 C A;110 poste de contrôle final Flex 2 C A
-10/03/2025;Scrap;Réglage;A Midi;10 VW000054852 PPC FLEX;Flex2;NF48 marquage décalé;7;90 Test électrique Flex 2 C A;90 Test électrique Flex 2 C A
-10/03/2025;Scrap;Process;A Midi;10 VW000054852 PPC FLEX;Flex2;NF38 Lame mal sertie;2;40 Sertissage lamme boitier et boutrollage Flex-2 C A;110 poste de contrôle final Flex 2 C A
-10/03/2025;Scrap;Process;A Midi;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C24 Marquage non conforme;8;2.175 controle vision C A;2.175 controle vision C A
-10/03/2025;Scrap;Process;A Midi;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C4.2 Fourchette (2) endommagé;2;2.160 soudure fourchette /ICH/ resistance/ condo C A;2.170 test electrique C A
-10/03/2025;Scrap;Process;A Midi;85690 V503.989 CM4-Ligne 2;CM3-CM4 Ligne 2;C10 PDM endommagée;1;2.90/95/100 soudure etain automatique C A;2.105 controle etain +rework C A
-10/03/2025;Scrap;Réglage;A Midi;134 V878308P B8;B8;NF01 soudure self écrasé;2;70 soudure self N°1 C B;70 soudure self N°1 C B
-10/03/2025;Scrap;Process;A Midi;665 VW000097898-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;4;150 Test force GENIIC C B;150 Test force GENIIC C B
-10/03/2025;Scrap;Process;A Midi;665 VW000097898-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 05 Murée cassé;2;160 Test électrique et controle caméra GENII C C B;170 Controle Finale GENII C C B
-10/03/2025;Scrap;Process;A Midi;665 VW000097898-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF39 soudure condo/EMC écrasé;3;50 Soudure électrique de 2 pattes condo et contact EMC C A;170 Controle Finale GENII C C B
-10/03/2025;Scrap;Process;A Midi;03 V420284-sim 2 SIM II;sim 2;NF05 boitier cassé;7;40 insertion rotule C A;40 insertion rotule C A
-11/03/2025;Scrap;Formation;Nuit;10 VW000054852 PPC FLEX;Flex2;NF12 Mauvais bouterollage lame balai /boitier;50;30 Insertion lame/balai sur boitier_Flex 2 P A;50 Mise en place self / shunt Flex-2 C A
-11/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF08 Piste tordue;1;110 poste de contrôle final Flex 2 C A;110 poste de contrôle final Flex 2 C A
-11/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF03 Self mal plaquée haut;3;50 Mise en place self / shunt Flex-2 C A;110 poste de contrôle final Flex 2 C A
-11/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF11 Lame déformée;3;15-1045 Assemblage balai / Lame ressort C A;110 poste de contrôle final Flex 2 C A
-11/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF13 Soudure self  écrasée;5;60 soudure électrique self / shunt  sur lame Flex2 C A;110 poste de contrôle final Flex 2 C A
-11/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF24 Self déformée;4;60 soudure électrique self / shunt  sur lame Flex2 C A;110 poste de contrôle final Flex 2 C A
-11/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;N55 Mauvaise  marquage;24;90 Test électrique Flex 2 C A;110 poste de contrôle final Flex 2 C A
-11/03/2025;Scrap;Réglage;Matin;03 V420284-sim 2 SIM II;sim 2;NF05 boitier cassé;2;40 insertion rotule C A;40 insertion rotule C A
-11/03/2025;Scrap;Process;Matin;32 W000040372POL AUTO1 PPC VM4/HOARAIRE;VM4 AUTO I;NF16 soudure écrasé;1;150 soudure électrique 3éme self & PTH P A;150 soudure électrique 3éme self & PTH P A
-11/03/2025;Scrap;Process;Matin;58 W000052297SLP AUTO1 PPC VM4/ANTI HOARAIRE;VM4 AUTO I;NF09 contact déformé;2; boutrollage et test électrique et caméra P A; boutrollage et test électrique et caméra P A
-11/03/2025;Scrap;Process;Matin;58 W000052297SLP AUTO1 PPC VM4/ANTI HOARAIRE;VM4 AUTO I;NF08 bakélite cassé;2; montage composants sur convoyeur P A; soudure électrique PTH & PDM P A
-11/03/2025;Scrap;Process;Matin;47 W000068615POL AUTO2 PPC VM4/HORAIRE;VM4 AUTO II;NF04 boutrollage NC;2; test electrique P A; test electrique P A
-11/03/2025;Scrap;Process;Matin;07 W000022745POL AUTO2 PPC VM4/HORAIRE;VM4 AUTO II;NF08 bakélite cassé;2;100-155 mise en place de composants sur palettes P A;100-155 mise en place de composants sur palettes P A
-11/03/2025;Scrap;Process;Matin;5653 VM4 Tour Continue 2 condos 63V VM4 Tower;VM4 Partie A;16 Tour brûlée;8;20 robot de brasage C A;20 robot de brasage C A
-11/03/2025;Scrap;Réglage;Matin;005 53342836 PPC First plastique;F.P;40 Platine cassé;2;70 Verrouillage self / tresse P B;120 Déchargement palette P B
-11/03/2025;Scrap;Process;Matin;005 53342836 PPC First plastique;F.P;F01 Self déformée;10;70 Verrouillage self / tresse P B;120 Déchargement palette P B
-11/03/2025;Scrap;Process;Matin;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C21 Patte Hall IC/Resistance dehors de la fourchette;1;2.165 soudure fourchette /ICHall/ resistance C A;2.185 controle aspect soudure A2 controle aspect soudure C A
-11/03/2025;Scrap;Process;Matin;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C4.2 Fourchette (2) endommagé;2;2.160 soudure fourchette /ICH/ resistance/ condo C A;2.185 controle aspect soudure A2 controle aspect soudure C A
-11/03/2025;Scrap;Process;Matin;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C24 Marquage non conforme;1;2.175 controle vision C A;2.180 controle aspect soudure A1 controle aspect soudure C A
-11/03/2025;Scrap;Process;Matin;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C9 Boitier endommagé;1;2.130 MEP ressort n°1 C A;2.180 controle aspect soudure A1 controle aspect soudure C A
-11/03/2025;Scrap;Process;Matin;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C8.3 vernis sur boitier;1;2.115 vernissage automatique C A;2.180 controle aspect soudure A1 controle aspect soudure C A
-11/03/2025;Scrap;Lot à défaut;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;NF02 Mauvaise soudure self tresse;21;10B soudure self tresse soudure self tresse C A;50- montage self/balais sur boitier C A
-11/03/2025;Scrap;Process;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;NF03 Pin tordue;21;2.55 sertissage de 2 contacts +fourchette C A;2.10 chargement et déchargement C A
-11/03/2025;Scrap;Réglage;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;NF04 Boitier endommagée;12;2.30 sertissage automatique de 2 inserts+patte de masse C A;2.35 retournement C A
-11/03/2025;Scrap;Process;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;P10.B PDM endommagé;9;2.30 sertissage automatique de 2 inserts+patte de masse C A;2.35 retournement C A
-11/03/2025;Scrap;Lot à défaut;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;P2 Balais cassé;9;10B soudure self tresse soudure self tresse C A;50- montage self/balais sur boitier C A
-11/03/2025;Scrap;Lot à défaut;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;P2 Balais cassé;5;10B soudure self tresse soudure self tresse C A;51 controle préparation C A
-11/03/2025;Scrap;Lot à défaut;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;NF02 Mauvaise soudure self tresse;18;10B soudure self tresse soudure self tresse C A;51 controle préparation C A
-11/03/2025;Scrap;Process;Matin;007 W000037397 PPC FLEX 1;Flex1;NF17 Marquage illisible;6;90 Test électrique C A;29 Chargement - déchargement boitiersur palette P A
-11/03/2025;Scrap;Process;Matin;007 W000037397 PPC FLEX 1;Flex1;NF13 Soudure self  écrasée;8;60 soudure électrique self sur lame C A;70 MEP condo  + Retournement boitier C A
-11/03/2025;Scrap;Process;Matin;007 W000037397 PPC FLEX 1;Flex1;NF11 Lame déformée;5;90 Test électrique C A;29 Chargement - déchargement boitiersur palette P A
-11/03/2025;Scrap;Process;Matin;Pr3 779 Pr3 779 Préparation CM3 réf 779;Preparation CM3;P10.B PDM endommagé;6;3.25 Pré-insertion des inserts PDM C A;3.35 Retournement C A
-11/03/2025;Scrap;Process;Matin;007 W000037397 PPC FLEX 1;Flex1;NF43 soudure condo écrasé;4;46 soudure électrique condo sur lame C A;50 Montage self / lame C A
-11/03/2025;Scrap;Process;Matin;007 W000037397 PPC FLEX 1;Flex1;NF12 Mauvais bouterollage lame balai;4;40 Sertissage lamme boitier et boutrollage C A;42 Mise en place condo axial C 
-11/03/2025;Scrap;Process;Matin;04 VW000092467POL-GEN2 Réversible PPC GEN2;GEN2 Réversible;NF08 guide mal sertie;2;40 sertissage guides C A;40 sertissage guides C A
-11/03/2025;Scrap;Process;Matin;03 VW000035924 PPC MNG2 2L2C;Mng 2.2;MN01 plaquette cassée;2;120_58 poste de montage reteneur P B;120_58 poste de montage reteneur P B
-11/03/2025;Scrap;Process;Matin;20 VW000037397POL PPC FLEX 2;Flex2;N56 Soudure self éclaté;1;60 soudure électrique self / shunt  sur lame Flex2 C A;70 MEP condo  + PTH + Retournement boitier Flex 2 C 
-11/03/2025;Scrap;Process;Matin;20 VW000037397POL PPC FLEX 2;Flex2;NF12 Mauvais bouterollage lame balai /boitier;3;40 Sertissage lamme boitier et boutrollage Flex-2 C A;42 Mise en place condo axial-Flex2 C 
-11/03/2025;Scrap;Process;Matin;20 VW000037397POL PPC FLEX 2;Flex2;NF25 Boîtier cassé;4;44 Boutrollage condo axial-Flex 2 C A;47 Controle soudure condo axiale et boutrollage C A
-11/03/2025;Scrap;Process;Matin;95 VA14106710A T7;T7;NF06 soudure connecteur éclaté;1;30 soudure connecteur sur platine C B;30 soudure connecteur sur platine C B
-11/03/2025;Scrap;Process;Matin;95 VA14106710A T7;T7;NF16 Platine cassé;2;10 Déschuntage platine C B;10 Déschuntage platine C B
-11/03/2025;Scrap;Process;A Midi;01-magna CL V505-927 505-927;DCK;NF01 Bakelite cassé;4;80 insertion guide chargé (ressort/balai) dans la palette C A;80 insertion guide chargé (ressort/balai) dans la palette C A
-11/03/2025;Scrap;Process;A Midi;01-magna CL V505-927 505-927;DCK;NF01-magna self diode écraser;3;PH 150 Magna Soudure self-Diode P B;PH 150 Magna Soudure self-Diode P B
-11/03/2025;Scrap;Process;A Midi;01-magna CL V505-927 505-927;DCK;NF04 soudure self connexion1 écrsé;3;180 soudure self /terminal 2 C B;170 soudure 1er self/terminal& montage 2eme self C B
-11/03/2025;Scrap;Process;A Midi;01-magna CL V505-927 505-927;DCK;NF10 guide mal serti;3;80 insertion guide chargé (ressort/balai) dans la palette C A;80 insertion guide chargé (ressort/balai) dans la palette C A
-11/03/2025;Scrap;Réglage;A Midi;5655 VM4 Tour Continue 3 condos VM4 Tower;VM4 Partie A;16 Tour brûlée;5;20 robot  de brasage P A;20 robot  de brasage P A
-11/03/2025;Scrap;Process;A Midi;06 W000051919POL AUTO1 PPC VM4/ANTI HORAIRE;VM4 AUTO I;NF09 contact déformé;3; boutrollage et test électrique et caméra P A; montage composants sur convoyeur P A
-11/03/2025;Scrap;Process;A Midi;07 420291 NEM2 DUP V420291-nem2 dup BC NEM II;NEM 2 dup;NF09 patte de masse tordue;6;100 Boutollage PDM P A;110 Mise en place des ressorts P A
-11/03/2025;Scrap;Process;A Midi;07 420291 NEM2 DUP V420291-nem2 dup BC NEM II;NEM 2 dup;NF08 marquage illisible;4;120 identification de pièce par marquage P A;120 identification de pièce par marquage P A
-11/03/2025;Scrap;Process;A Midi;03 V420284-sim 2 SIM II;sim 2;NF05 boitier cassé;8;40 insertion rotule C A;40 insertion rotule C A
-11/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF58 Mauvaise marquage;4;90 Test électrique C A;90 Test électrique C A
-11/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF12 Mauvais bouterollage lame balai;1;40 Sertissage lamme boitier et boutrollage C A;42 Mise en place condo axial C 
-11/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF13 Soudure self  écrasée;1;60 soudure électrique self sur lame C A;70 MEP condo  + Retournement boitier C A
-11/03/2025;Scrap;Process;A Midi;007 W000037397 PPC FLEX 1;Flex1;NF35 Languette tordue;1;29 Chargement - déchargement boitiersur palette P A;80 Soudure à l'étain C A
-11/03/2025;Scrap;Réglage;A Midi;142 VA14116701A B8;B8;NF06 soudure connecteur éclaté;2;30 soudure connecteur sur platine C B;30 soudure connecteur sur platine C B
-11/03/2025;Scrap;Réglage;A Midi;142 VA14116701A B8;B8;NF01 soudure self écrasé;1;70 soudure self N°1 C B;70 soudure self N°1 C B
-11/03/2025;Scrap;Process;A Midi;20 VW000037397 PPC FLEX 2;Flex2;N55 Mauvaise  marquage;35;90 Test électrique Flex 2 C A;90 Test électrique Flex 2 C A
-11/03/2025;Scrap;Process;A Midi;20 VW000037397 PPC FLEX 2;Flex2;NF12 Mauvais bouterollage lame balai /boitier;6;40 Sertissage lamme boitier et boutrollage Flex-2 C A;42 Mise en place condo axial-Flex2 C 
-11/03/2025;Scrap;Process;A Midi;20 VW000037397 PPC FLEX 2;Flex2;NF13 Soudure self  écrasée;2;60 soudure électrique self / shunt  sur lame Flex2 C A;110-B Controle finale Flex 2 partie B C A
-11/03/2025;Scrap;Process;A Midi;20 VW000037397 PPC FLEX 2;Flex2;NF19 Patte de masse déformée;3;29 Chargement et déchargement boitier sur palette_Flex 2 P A;110-A controle finale Flex 2 partie A C A
-11/03/2025;Scrap;Process;A Midi;20 VW000037397 PPC FLEX 2;Flex2;NF25 Boîtier cassé;25;46 Soudure condo axiale flex 2 C A;47 Controle soudure condo axiale et boutrollage C A
-11/03/2025;Scrap;Process;A Midi;20 VW000037397 PPC FLEX 2;Flex2;NF43 soudure condo écrasé;4;46 Soudure condo axiale flex 2 C A;47 Controle soudure condo axiale et boutrollage C A
-11/03/2025;Scrap;Process;A Midi;53654 VW347551SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;2;160 Test électrique et controle caméra GENII C C B;160 Test électrique et controle caméra GENII C C B
-11/03/2025;Scrap;Process;A Midi;53654 VW347551SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF49 contact négatif mal plaqué;1;20 insertion contact GND et Terminaux au platine C A;170 Controle Finale GENII C C B
-11/03/2025;Scrap;Process;A Midi;53654 VW347551SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;1;150 Test force GENIIC C B;150 Test force GENIIC C B
-11/03/2025;Scrap;Process;A Midi;53654 VW347551SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;2;160 Test électrique et controle caméra GENII C C B;160 Test électrique et controle caméra GENII C C B
-11/03/2025;Scrap;Process;A Midi;53654 VW347551SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF49 contact négatif mal plaqué;1;20 insertion contact GND et Terminaux au platine C A;170 Controle Finale GENII C C B
-11/03/2025;Scrap;Process;A Midi;53654 VW347551SLP-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;1;150 Test force GENIIC C B;150 Test force GENIIC C B
-11/03/2025;Scrap;Process;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;NF 01 Balai cassé;120;50- montage self/balais sur boitier C A;51 controle préparation C A
-11/03/2025;Scrap;Process;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;NF02 Mauvaise soudure self tresse;12;10B soudure self tresse soudure self tresse C A;50- montage self/balais sur boitier C A
-11/03/2025;Scrap;Process;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;NF04 Boitier endommagée;29;2.55 sertissage de 2 contacts +fourchette C A;2.55 sertissage de 2 contacts +fourchette C A
-11/03/2025;Scrap;Process;A Midi;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C24 Marquage non conforme;4;2.175 controle vision C A;2.175 controle vision C A
-11/03/2025;Scrap;Process;A Midi;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C4.2 Fourchette (2) endommagé;1;2.160 soudure fourchette /ICH/ resistance/ condo C A;2.170 test electrique C A
-12/03/2025;Scrap;Process;Nuit;665 VW000097898-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 52 Soudure self éclaté;1;90 soudure électrique balais 1 et self 1 C A;90 soudure électrique balais 1 et self 1 C A
-12/03/2025;Scrap;Lot à défaut;Nuit;665 VW000097898-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 05 Murée cassé;1;80 sertissage guides GEN2 C C A;100 soudure électrique balais 2 et self 2 C A
-12/03/2025;Scrap;Lot à défaut;Nuit;665 VW000097898-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 05 Murée cassé;2;160 Test électrique et controle caméra GENII C C B;170 Controle Finale GENII C C B
-12/03/2025;Scrap;Process;Nuit;665 VW000097898-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF49 contact négatif mal plaqué;1;20 insertion contact GND et Terminaux au platine C A;130 soudure électrique contact self 3 OU PTH SELF C A
-12/03/2025;Scrap;Pièce par terre;Nuit;665 VW000097898-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF16 languettes cassés;1;150 Test force GENIIC C B;150 Test force GENIIC C B
-12/03/2025;Scrap;Lot à défaut;Nuit;665 VW000097898-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF 01 soudure self terminal ecrasée;1;110 soudure self terminals C A;170 Controle Finale GENII C C B
-12/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;N55 Mauvaise  marquage;23;90 Test électrique Flex 2 C A;110 poste de contrôle final Flex 2 C A
-12/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF03 Self mal plaquée haut;1;60 soudure électrique self / shunt  sur lame Flex2 C A;110 poste de contrôle final Flex 2 C A
-12/03/2025;Scrap;Formation;Nuit;10 VW000054852 PPC FLEX;Flex2;NF12 Mauvais bouterollage lame balai /boitier;29;40 Sertissage lamme boitier et boutrollage Flex-2 C A;50 Mise en place self / shunt Flex-2 C A
-12/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;N56 Soudure self éclaté;1;60 soudure électrique self / shunt  sur lame Flex2 C A;110 poste de contrôle final Flex 2 C A
-12/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF13 Soudure self  écrasée;5;60 soudure électrique self / shunt  sur lame Flex2 C A;110 poste de contrôle final Flex 2 C A
-12/03/2025;Scrap;Process;Nuit;10 VW000054852 PPC FLEX;Flex2;NF11 Lame déformée;1;15-1045 Assemblage balai / Lame ressort C A;90 Test électrique Flex 2 C A
-12/03/2025;Scrap;Process;Matin;76 W262948POL AUTO1 PPC VM4/HORAIRE;VM4 AUTO I;NF16 soudure écrasé;2;150 soudure électrique 3éme self & PTH P A;150 soudure électrique 3éme self & PTH P A
-12/03/2025;Scrap;Process;Matin;76 W262948POL AUTO1 PPC VM4/HORAIRE;VM4 AUTO I;NF25 reteneur.. cassé;4; montage composants sur convoyeur P A; montage composants sur convoyeur P A
-12/03/2025;Scrap;Process;Matin;5652 VM4 Tour Continue 2 CAPA + 1 CONDO VM4 Tower;VM4 Partie A;16 Tour brûlée;3;20 robot  de brasage P A;20 robot  de brasage P A
-12/03/2025;Scrap;Formation;Matin;04 VW000092467POL-GEN2 Réversible PPC GEN2;GEN2 Réversible;NF 40 Muret cassé;2;70 Botrollage C A;70 Botrollage C A
-12/03/2025;Scrap;Réglage;Matin;03 V420284-sim 2 SIM II;sim 2;NF05 boitier cassé;2;40 insertion rotule C A;40 insertion rotule C A
-12/03/2025;Scrap;Formation;Matin;03 V420284-sim 2 SIM II;sim 2;NF05 boitier cassé;4;65 insertion auto de s/e+rotule C A;65 insertion auto de s/e+rotule C A
-12/03/2025;Scrap;Process;Matin;154 VA18116507G B8;B8;NF23 connecteur mal plaqué;1;30 soudure connecteur sur platine C B;30 soudure connecteur sur platine C B
-12/03/2025;Scrap;Process;Matin;154 VA18116507G B8;B8;NF13 condo coupé;1;30 soudure connecteur sur platine C B;30 soudure connecteur sur platine C B
-12/03/2025;Scrap;Process;Matin;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C9 Boitier endommagé;2;2.130 MEP ressort n°1 C A;2.180 controle aspect soudure A1 controle aspect soudure C A
-12/03/2025;Scrap;Process;Matin;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C4.2 Fourchette (2) endommagé;4;2.160 soudure fourchette /ICH/ resistance/ condo C A;2.185 controle aspect soudure A2 controle aspect soudure C A
-12/03/2025;Scrap;Process;Matin;758597 V503.775 CM4-ligne 2;CM3-CM4 Ligne 2;C4.3 Fourchette (3) endommagé;4;2.165 soudure fourchette /ICHall/ resistance C A;2.185 controle aspect soudure A2 controle aspect soudure C A
-12/03/2025;Scrap;Process;Matin;008 VW000037397BRA PPC FLEXL1;Flex1;NF13 Soudure self  écrasée;7;60 soudure électrique self sur lame C A;70 MEP condo  + Retournement boitier C A
-12/03/2025;Scrap;Process;Matin;008 VW000037397BRA PPC FLEXL1;Flex1;NF48 Marquage décalé;4;90 Test électrique C A;29 Chargement - déchargement boitiersur palette P A
-12/03/2025;Scrap;Process;Matin;008 VW000037397BRA PPC FLEXL1;Flex1;NF11 Lame déformée;8;90 Test électrique C A;29 Chargement - déchargement boitiersur palette P A
-12/03/2025;Scrap;Process;Matin;20 VW000037397 PPC FLEX 2;Flex2;NF43 soudure condo écrasé;32;46 Soudure condo axiale flex 2 C A;47 Controle soudure condo axiale et boutrollage C A
-12/03/2025;Scrap;Réglage;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;NF04 Boitier endommagée;5;2.30 sertissage automatique de 2 inserts+patte de masse C A;2.35 retournement C A
-12/03/2025;Scrap;Lot à défaut;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;NF02 Mauvaise soudure self tresse;14;10B soudure self tresse soudure self tresse C A;50- montage self/balais sur boitier C A
-12/03/2025;Scrap;Process;Matin;CM4 Preparation CM4 ligne 2;Preparation CM4;P10.B PDM endommagé;8;2.30 sertissage automatique de 2 inserts+patte de masse C A;2.35 retournement C A
-12/03/2025;Scrap;Process;Matin;142 VA14116701A B8;B8;NF16 Platine cassé;1;70 soudure self N°1 C B;70 soudure self N°1 C B
-12/03/2025;Scrap;Process;Matin;32 W000040372POL AUTO1 PPC VM4/HOARAIRE;VM4 AUTO I;NF16 soudure écrasé;2;120 soudure électrique rivet et 3éme self P A;120 soudure électrique rivet et 3éme self P A
-12/03/2025;Scrap;Process;Matin;32 W000040372POL AUTO1 PPC VM4/HOARAIRE;VM4 AUTO I;NF16 soudure écrasé;2;150 soudure électrique 3éme self & PTH P A;150 soudure électrique 3éme self & PTH P A
-12/03/2025;Scrap;Process;A Midi;012 V503.908 503.908;DCK;NF01 Bakelite cassé;4;60 Insertion balai / self P B;210 test électrique C B
-12/03/2025;Scrap;Process;A Midi;012 V503.908 503.908;DCK;NF05 soudure self connexion2 écrsé;3;180 soudure self /terminal 2 C B;220 controle finale & conditionnement C B
-12/03/2025;Scrap;Réglage;A Midi;56500 VM4 Tour Continue 2 CAPA GEN2 VM4 Tower;VM4 Partie A;16 Tour brûlée;4;20 robot  de brasage P A;20 robot  de brasage P A
-12/03/2025;Scrap;Réglage;A Midi;47 W000072687POL AUTO1 PPC VM4/ HORAIRE;VM4 AUTO I;NF09 contact déformé;4; Controle finale C A; montage composants sur convoyeur P A
-12/03/2025;Scrap;Process;A Midi;47 W000072687POL AUTO1 PPC VM4/ HORAIRE;VM4 AUTO I;NF16 soudure écrasé;2;130 soudure électrique 3éme self & PDM P A;130 soudure électrique 3éme self & PDM P A
-12/03/2025;Scrap;Process;A Midi;1001 V501312040-PIERBURG SKP42 PIERBURG SKP42;PIERBURG SKP42;NC 16 Guide abimé;3;60 Sertissage guide et montage reteneur P ;130 Controle final et emballage C A
-12/03/2025;Scrap;Process;A Midi;1001 V501312040-PIERBURG SKP42 PIERBURG SKP42;PIERBURG SKP42;NC 33 Soudure self / contact décalé;2;80&90&100 Soudure électrique self/contact, self/thermoswitch et thermoswitch/contact P ;130 Controle final et emballage C A
-12/03/2025;Scrap;Process;A Midi;1001 V501312040-PIERBURG SKP42 PIERBURG SKP42;PIERBURG SKP42;NC 04 Contact moteur déformé;2;120 Test électrique P ;130 Controle final et emballage C A
-12/03/2025;Scrap;Process;A Midi;07 420291 NEM2 DUP V420291-nem2 dup BC NEM II;NEM 2 dup;NF09 patte de masse tordue;4;100 Boutollage PDM P A;110 Mise en place des ressorts P A
-12/03/2025;Scrap;Process;A Midi;07 420291 NEM2 DUP V420291-nem2 dup BC NEM II;NEM 2 dup;NF08 marquage illisible;3;120 identification de pièce par marquage P A;120 identification de pièce par marquage P A
-12/03/2025;Scrap;Process;A Midi;08 420290 NEM2 DUP V420290-nem2 dup NEM II;NEM 2 dup;NF09 patte de masse tordue;3;100 Boutollage PDM P A;110 Mise en place des ressorts P A
-12/03/2025;Scrap;Process;A Midi;20 VW000037397POL PPC FLEX 2;Flex2;N56 Soudure self éclaté;3;60 soudure électrique self / shunt  sur lame Flex2 C A;70 MEP condo  + PTH + Retournement boitier Flex 2 C 
-12/03/2025;Scrap;Process;A Midi;20 VW000037397POL PPC FLEX 2;Flex2;NF12 Mauvais bouterollage lame balai /boitier;6;40 Sertissage lamme boitier et boutrollage Flex-2 C A;42 Mise en place condo axial-Flex2 C 
-12/03/2025;Scrap;Process;A Midi;20 VW000037397POL PPC FLEX 2;Flex2;NF25 Boîtier cassé;45;44 Boutrollage condo axial-Flex 2 C A;47 Controle soudure condo axiale et boutrollage C A
-12/03/2025;Scrap;Process;A Midi;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF39 soudure condo/EMC écrasé;3;50 Soudure électrique de 2 pattes condo et contact EMC C A;170 Controle Finale GENII C C B
-12/03/2025;Scrap;Process;A Midi;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF46 contact EMC déformé;1;10 Insertion contact EMC au platine C A;160 Test électrique et controle caméra GENII C C B
-12/03/2025;Scrap;Process;A Midi;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF49 contact négatif mal plaqué;1;20 insertion contact GND et Terminaux au platine C A;140 soudure électrique contact GND et PTH C A
-12/03/2025;Scrap;Process;A Midi;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF35 condo mal plaqué;1;60 coupe pattes condos C ;160 Test électrique et controle caméra GENII C C B
-12/03/2025;Scrap;Process;A Midi;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;8;150 Test force GENIIC C B;150 Test force GENIIC C B
-12/03/2025;Scrap;Process;A Midi;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF39 soudure condo/EMC écrasé;3;50 Soudure électrique de 2 pattes condo et contact EMC C A;170 Controle Finale GENII C C B
-12/03/2025;Scrap;Process;A Midi;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF46 contact EMC déformé;1;10 Insertion contact EMC au platine C A;160 Test électrique et controle caméra GENII C C B
-12/03/2025;Scrap;Process;A Midi;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF49 contact négatif mal plaqué;1;20 insertion contact GND et Terminaux au platine C A;140 soudure électrique contact GND et PTH C A
-12/03/2025;Scrap;Process;A Midi;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;NF35 condo mal plaqué;1;60 coupe pattes condos C ;160 Test électrique et controle caméra GENII C C B
-12/03/2025;Scrap;Process;A Midi;58947 VW000095903-GEN2 Continue PPC GEN2 C;GEN2 Continue;10 Camera vision;8;150 Test force GENIIC C B;150 Test force GENIIC C B
-12/03/2025;Scrap;Process;A Midi;008 VW000037397BRA PPC FLEXL1;Flex1;NF58 Mauvaise marquage;2;90 Test électrique C A;90 Test électrique C A
-12/03/2025;Scrap;Process;A Midi;008 VW000037397BRA PPC FLEXL1;Flex1;NF25 Boîtier cassé;3;40 Sertissage lamme boitier et boutrollage C A;42 Mise en place condo axial C 
-12/03/2025;Scrap;Process;A Midi;008 VW000037397BRA PPC FLEXL1;Flex1;NF48 Marquage décalé;1;90 Test électrique C A;90 Test électrique C A
-12/03/2025;Scrap;Process;A Midi;008 VW000037397BRA PPC FLEXL1;Flex1;NF13 Soudure self  écrasée;2;60 soudure électrique self sur lame C A;70 MEP condo  + Retournement boitier C A
-12/03/2025;Scrap;Process;A Midi;008 VW000037397BRA PPC FLEXL1;Flex1;NF12 Mauvais bouterollage lame balai;1;40 Sertissage lamme boitier et boutrollage C A;42 Mise en place condo axial C 
-12/03/2025;Scrap;Process;A Midi;008 VW000037397BRA PPC FLEXL1;Flex1;NF35 Languette tordue;3;29 Chargement - déchargement boitiersur palette P A;80 Soudure à l'étain C A
-12/03/2025;Scrap;Réglage;A Midi;154 VA18116507G B8;B8;NF05 soudure connecteur écrasé;4;30 soudure connecteur sur platine C B;30 soudure connecteur sur platine C B
-12/03/2025;Scrap;Process;A Midi;154 VA18116507G B8;B8;NF18 Court circuit;2;140 test électrique & impression galia C B;140 test électrique & impression galia C B
-12/03/2025;Scrap;Process;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;NF 01 Balai cassé;98;50- montage self/balais sur boitier C A;51 controle préparation C A
-12/03/2025;Scrap;Process;A Midi;CM4 Preparation CM4 ligne 2;Preparation CM4;NF02 Mauvaise soudure self tresse;26;10B soudure self tresse soudure self tresse C A;51 controle préparation C A
-12/03/2025;Scrap;Réglage;A Midi;05 VW000058808BRA PPC MNG2 2L2C;Mng 2.1;MN09 connecteur mal enclipsé;2;100_57 Poste de pose connecteur et pliage bornes P B;100_57 Poste de pose connecteur et pliage bornes P B
-12/03/2025;Scrap;Process;A Midi;03 V420284-sim 2 SIM II;sim 2;40 balais cassé;4;110-170 test electrique C A;110-170 test electrique C A
-12/03/2025;Scrap;Process;A Midi;5997878 V503.773 CM4-Ligne 2;CM3-CM4 Ligne 2;C4.2 Fourchette (2) endommagé;1;2.160 soudure fourchette /ICH/ resistance/ condo C A;2.170 test electrique C A
+﻿Date de création;Type;Catégorie;Équipe;Produit;Ligne;Famille;Défaut;Qte défaut;Phase d'origine;Phase de détection
+16/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Marquage décalé;3;Chargement - déchargement boitiersur palette;Test électrique
+16/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Soudure self  écrasée;2;soudure électrique self sur lame;MEP condo  + Retournement boitier
+16/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Lame déformée;4;Test électrique;Controle finale partie A ligne F1
+16/03/2025;Scrap;reglage;Matin;ligne 2;Preparation CM4;CM4;Boitier endommagée;3;sertissage automatique de 2 inserts+patte de masse;retournement
+17/03/2025;Scrap;reglage;Matin;B8;B8;B8;soudure self écrasé;4;soudure self N°2;soudure self N°2
+17/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Mauvais bouterollage lame balai;4;Sertissage lamme boitier et boutrollage;Mise en place condo axial
+17/03/2025;Scrap;process;Matin;SIM II;sim 2;SIM;boitier cassé;9;insertion rotule;insertion rotule
+16/03/2025;Scrap;reglage;Matin;PPC First plastique;F.P;FIRST PLASTIQUE;Platine cassé;1;Soudure à l'étain F.P;Controle partie A FP
+16/03/2025;Scrap;reglage;Matin;PPC First plastique;F.P;FIRST PLASTIQUE;muret cassée;1;Verrouillage self / tresse;Déchargement palette
+16/03/2025;Scrap;process;Matin;PPC First plastique;F.P;FIRST PLASTIQUE;Self déformée;27;Verrouillage self / tresse;Déchargement palette
+16/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Fourchette (2) endommagé;10;soudure fourchette /ICH/ resistance/ condo;controle aspect soudure
+16/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Fourchette (3) endommagé;1;soudure fourchette /ICHall/ resistance;controle aspect soudure
+16/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Fourchette (1) endommagé;2;controle aspect soudure;controle aspect soudure
+16/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Mauvaise soudure self/PTH;3;soudure self PTH;controle aspect soudure
+16/03/2025;Scrap;defaut;Matin;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;18;soudure self tresse;controle préparation
+16/03/2025;Scrap;defaut;Matin;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;14;soudure self tresse;montage self/balais sur boitier
+16/03/2025;Scrap;reglage;Matin;ligne 2;Preparation CM4;CM4;Contact endommagé;7;sertissage automatique de 2 inserts+patte de masse;retournement
+17/03/2025;Scrap;reglage;Matin;VM4 Tower;VM4 Partie A;VM4;Tour brûlée;5;robot  de brasage;robot  de brasage
+17/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Soudure self  écrasée;4;soudure électrique self sur lame;Controle finale partie B
+17/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Balai mal serti;96;Assemblage balai / Lame ressort;Assemblage balai / Lame ressort
+17/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Faux défaut;112;Test électrique;Test électrique
+17/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Balai mal serti;27;Insertion lame/balai sur boitier;Controle finale partie B
+17/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Balai cassé;26;Assemblage balai / Lame ressort;Assemblage balai / Lame ressort
+17/03/2025;Scrap;process;Matin;ligne 2;Preparation CM4;CM4;Balai cassé;62;montage self/balais sur boitier;controle préparation
+17/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Languette tordue;1;Chargement - déchargement boitiersur palette;Soudure à l'étain
+17/03/2025;Scrap;process;Matin;ligne 2;Preparation CM4;CM4;Pin mal plaquée;440;sertissage de 2 contacts +fourchette;controle préparation
+17/03/2025;Scrap;process;Matin;ligne 2;Preparation CM4;CM4;Boitier endommagée;17;sertissage de 2 contacts +fourchette;controle préparation
+17/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Marquage décalé;1;Test électrique;Test électrique
+17/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Patte de masse déformée;1;Chargement - déchargement boitiersur palette;Controle finale partie B
+17/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Lame déformée;1;Test électrique;Controle finale partie B
+17/03/2025;Scrap;reglage;Matin;B8;B8;B8;connecteur mal plaqué;2;soudure connecteur sur platine;soudure connecteur sur platine
+17/03/2025;Scrap;reglage;Matin;PPC_F.P;F.P;FIRST PLASTIQUE;muret cassée;2;Poste d'enfonçage ressort et coulissement balai;Poste d'enfonçage ressort et coulissement balai
+17/03/2025;Scrap;reglage;Matin;PPC_F.P;F.P;FIRST PLASTIQUE;Platine cassé;1;Poste d'enfonçage ressort et coulissement balai;Poste d'enfonçage ressort et coulissement balai
+17/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Fourchette (2) endommagé;4;soudure fourchette /ICH/ resistance/ condo;test electrique
+17/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;vernis sur boitier;1;vernissage automatique;vernissage automatique
+17/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Fourchette (1) endommagé;1;soudure fourchette /ICH/ condo;test electrique
+17/03/2025;Scrap;process;Matin;PPC VM4/HORAIRE;VM4 AUTO II;VM4;contact déformé;4;mise en place de composants sur palettes;mise en place de composants sur palettes
+17/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Soudure self  écrasée;3;soudure électrique self / shunt  sur lame Flex2;Controle finale Flex 2 partie B
+17/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Patte de masse déformée;1;Chargement et déchargement boitier sur palette_Flex 2;controle finale Flex 2 partie A
+17/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Boîtier cassé;43;Soudure condo axiale flex 2;Controle soudure condo axiale et boutrollage
+17/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;soudure condo écrasé;3;Soudure condo axiale flex 2;Controle soudure condo axiale et boutrollage
+17/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Faux défaut TE;56;Test électrique Flex 2;Test électrique Flex 2
+17/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Mauvais bouterollage lame balai /boitier;6;Sertissage lamme boitier et boutrollage Flex-2;Mise en place condo axial-Flex2
+17/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Balai cassé;15;Assemblage balai / Lame ressort;Assemblage balai / Lame ressort
+17/03/2025;Scrap;process;A Midi;505-927;DCK;DCK;self diode écraser;4;Soudure self-Diode;Soudure self-Diode
+17/03/2025;Scrap;process;A Midi;505-927;DCK;DCK;soudure self connexion1 écrsé;2;soudure 1er self/terminal& montage 2eme self;soudure self /terminal 2
+17/03/2025;Scrap;process;A Midi;BC NEM II;NEM 2 dup;NEM2;patte de masse tordue;19;Boutollage PDM;Mise en place des ressorts
+17/03/2025;Scrap;process;A Midi;BC NEM II;NEM 2 dup;NEM2;mauvais sertissage lame /lyre;13;sertissage lame/ lyre;
+17/03/2025;Scrap;process;A Midi;BC NEM II;NEM 2 dup;NEM2;marquage illisible;4;identification de pièce par marquage;identification de pièce par marquage
+17/03/2025;Scrap;reglage;A Midi;SIM II;sim 2;SIM;boitier cassé;4;insertion rotule;insertion rotule
+17/03/2025;Scrap;process;A Midi;VM4 Tower;VM4 Partie A;VM4;Tour brûlée;4;robot de brasage;robot de brasage
+17/03/2025;Scrap;process;A Midi;VM4 Tower;VM4 Partie A;VM4;Tour brûlée;7;robot  de brasage;robot  de brasage
+17/03/2025;Scrap;process;A Midi;PPC VM4/HORAIRE;VM4 AUTO II;VM4;reteneur.. cassé;3;mise en place de composants sur palettes;mise en place de composants sur palettes
+17/03/2025;Scrap;process;A Midi;PPC VM4/HORAIRE;VM4 AUTO II;VM4;bakélite cassé;3;mise en place de composants sur palettes;Soudure 3 eme self tresse
+17/03/2025;Scrap;process;A Midi;PPC VM4/HORAIRE;VM4 AUTO II;VM4;soudure écrasé;3;Soudure 3eme self /PTH;Soudure 3eme self /PTH
+17/03/2025;Scrap;process;A Midi;PPC VM4/ANTI HOARAIRE;VM4 AUTO I;VM4;soudure écrasé;3;soudure électrique 3éme self & PTH;soudure électrique 3éme self & PTH
+17/03/2025;Scrap;process;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Soudure self éclaté;1;soudure électrique contact self 3 OU PTH SELF;soudure électrique contact self 3 OU PTH SELF
+17/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Balai mal serti;25;Assemblage balai / Lame ressort;Controle finale partie B
+17/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Lame déformée;6;Test électrique;Chargement - déchargement boitiersur palette
+17/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Marquage décalé;4;Test électrique;Chargement - déchargement boitiersur palette
+17/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Soudure self  écrasée;6;soudure électrique self sur lame;MEP condo  + Retournement boitier
+17/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;soudure condo écrasé;5;soudure électrique condo sur lame;Montage self / lame
+17/03/2025;Scrap;process;A Midi;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Murée cassé;3;Insertion contact EMC au platine;Insertion contact EMC au platine
+17/03/2025;Scrap;process;A Midi;PPC FLEX 2;Flex2;FLEX;soudure condo écrasé;9;Boutrollage condo axial-Flex 2;Controle soudure condo axiale et boutrollage
+17/03/2025;Scrap;process;A Midi;PPC FLEX 2;Flex2;FLEX;Soudure self éclaté;2;soudure électrique self / shunt  sur lame Flex2;MEP condo  + PTH + Retournement boitier Flex 2
+17/03/2025;Scrap;process;A Midi;CM4-NL;CM3-CM4 Ligne 2;CM4;Mauvaise soudure self/PTH;1;Soudure self sur PTH P A;controle aspect soudure
+17/03/2025;Scrap;process;A Midi;PPC FLEX 2;Flex2;FLEX;Boîtier cassé;12;Boutrollage condo axial-Flex 2;Controle soudure condo axiale et boutrollage
+17/03/2025;Scrap;defaut;A Midi;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;16;soudure self tresse;controle préparation
+17/03/2025;Scrap;reglage;A Midi;ligne 2;Preparation CM4;CM4;Boitier endommagée;2;sertissage de 2 contacts +fourchette;retournement
+17/03/2025;Scrap;defaut;A Midi;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;35;soudure self tresse;montage self/balais sur boitier
+17/03/2025;Scrap;process;A Midi;PPC FLEX 2;Flex2;FLEX;Mauvais bouterollage lame balai /boitier;6;Sertissage lamme boitier et boutrollage Flex-2;Mise en place condo axial-Flex2
+17/03/2025;Scrap;process;A Midi;B8;B8;B8;soudure tresse éclaté;1;soudure 2 balais N°1;soudure 2 balais N°1
+17/03/2025;Scrap;process;A Midi;T7;T7;Engine Cooling;soudure connecteur éclaté;1;soudure  connecteur sur  platine;soudure  connecteur sur  platine
+17/03/2025;Scrap;process;A Midi;T7;T7;Engine Cooling;Varistance coupé;1;soudure varistance;soudure varistance
+17/03/2025;Scrap;process;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;balai cassé;3;Test force GENIIC;Controle Finale GENII C
+17/03/2025;Scrap;defaut;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;soudure condo/EMC décalé;1;Soudure électrique de 2 pattes condo et contact EMC;Controle Finale GENII C
+17/03/2025;Scrap;process;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;soudure self tresse écrasé;1;soudure électrique balais 2 et self 2;Test force GENIIC
+18/03/2025;Scrap;reglage;Matin;B8;B8;B8;condo écrasé;4;soudure condo sur platine;soudure condo sur platine
+18/03/2025;Scrap;process;Matin;B8;B8;B8;Varistance coupé;1;soudure varistance;controle finale & conditionnement
+18/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Balai mal serti;79;Assemblage balai / Lame ressort;Assemblage balai / Lame ressort
+18/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Mauvaise marquage;2;Test électrique;Test électrique
+18/03/2025;Scrap;process;A Midi;PPC FLEXL1;Flex1;FLEX;Lame déformée;9;Test électrique;Chargement - déchargement boitiersur palette
+18/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Balai cassé;25;Assemblage balai / Lame ressort;Assemblage balai / Lame ressort
+18/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Mauvais bouterollage lame balai;4;Bouterollage lame balai sur boitier;Mise en place condo axial
+18/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Boîtier cassé;3;Bouterollage lame balai sur boitier;Mise en place condo axial
+18/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Languette tordue;2;Chargement - déchargement boitiersur palette;Soudure à l'étain
+18/03/2025;Scrap;process;A Midi;PPC FLEXL1;Flex1;FLEX;Soudure self  écrasée;10;soudure électrique self sur lame;MEP condo  + Retournement boitier
+18/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Soudure self  écrasée;2;soudure électrique self sur lame;MEP condo  + Retournement boitier
+18/03/2025;Scrap;process;Matin;CM4-NL;CM3-CM4 Ligne 2;CM4;Mauvaise soudure self/PTH;2;Soudure self sur PTH P A;Montage PCB
+18/03/2025;Scrap;process;Matin;CM4-NL;CM3-CM4 Ligne 2;CM4;PDM endommagée;1;Inspection soudure étain et rework P A;Vernissage automatique
+18/03/2025;Scrap;process;A Midi;505-927;DCK;DCK;Guide écrasée;3;insertion guide chargé (ressort/balai) dans la palette;sertissage guide
+18/03/2025;Scrap;process;A Midi;505-927;DCK;DCK;guide mal serti;3;soudure self /terminal 2;sertissage guide
+18/03/2025;Scrap;reglage;A Midi;505-927;DCK;DCK;soudure self connexion2 écrsé;4;soudure 1er self/terminal& montage 2eme self;soudure 1er self/terminal& montage 2eme self
+18/03/2025;Scrap;process;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Effort ressort non conforme;8;Test force GENIIC;Test force GENIIC
+18/03/2025;Scrap;process;A Midi;BC NEM II;NEM 2 dup;NEM2;boitier cassé;3;Enfonçage de la rotule sur le boîtier;
+19/03/2025;Scrap;reglage;Matin;PPC VM4/ANTI HORAIRE;VM4 AUTO I;VM4;contact déformé;3;montage composants sur convoyeur;montage composants sur convoyeur
+18/03/2025;Scrap;process;A Midi;BC NEM II;NEM 2 dup;NEM2;patte de masse tordue;10;Boutollage PDM;Mise en place des ressorts
+18/03/2025;Scrap;process;A Midi;BC NEM II;NEM 2 dup;NEM2;marquage illisible;4;identification de pièce par marquage;identification de pièce par marquage
+18/03/2025;Scrap;reglage;A Midi;SIM II;sim 2;SIM;boitier cassé;4;insertion rotule;insertion rotule
+18/03/2025;Scrap;process;A Midi;PPC FLEXL1;Flex1;FLEX;Mauvais bouterollage lame balai;6;Insertion lame/balai sur boitier;Mise en place condo axial
+18/03/2025;Scrap;process;A Midi;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Effort ressort non conforme;1;Test force GENIIC;Test force GENIIC
+18/03/2025;Scrap;process;A Midi;PPC FLEXL1;Flex1;FLEX;Marquage décalé;5;Test électrique;Chargement - déchargement boitiersur palette
+18/03/2025;Scrap;process;A Midi;PPC GEN2;GEN2 Réversible;GEN2 REVERSIBLE;Muret cassé;1;Botrollage;Botrollage
+18/03/2025;Scrap;process;A Midi;PPC VM4/HOARAIRE;VM4 AUTO I;VM4;soudure écrasé;2;soudure électrique 3éme self & PTH;soudure électrique 3éme self & PTH
+18/03/2025;Scrap;process;A Midi;PPC VM4/ANTI HOARAIRE;VM4 AUTO I;VM4;soudure décalé;1;soudure tresse/self M1;soudure tresse/self M1
+18/03/2025;Scrap;process;A Midi;CM4-NL;CM3-CM4 Ligne 2;CM4;Marquage non conforme;2;Poste de vision;controle aspect soudure
+18/03/2025;Scrap;process;A Midi;ligne 2;Preparation CM4;CM4;Boitier endommagée;2;sertissage automatique de 2 inserts+patte de masse;retournement
+18/03/2025;Scrap;defaut;A Midi;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;34;soudure self tresse;montage self/balais sur boitier
+18/03/2025;Scrap;defaut;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Murée cassé;1;soudure électrique balais 2 et self 2;soudure électrique balais 2 et self 2
+18/03/2025;Scrap;defaut;A Midi;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;56;soudure self tresse;controle préparation
+18/03/2025;Scrap;process;A Midi;ligne 2;Preparation CM4;CM4;PDM endommagé;16;sertissage automatique de 2 inserts+patte de masse;retournement
+18/03/2025;Scrap;defaut;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Murée cassé;1;Test électrique et controle caméra GENII C;Controle Finale GENII C
+19/03/2025;Scrap;reglage;Matin;VM4 Tower;VM4 Partie A;VM4;Tour brûlée;12;robot  de brasage;robot  de brasage
+19/03/2025;Scrap;process;Matin;505-931;DCK;DCK;Guide écrasée;2;insertion guide chargé (ressort/balai) dans la palette;sertissage guide
+19/03/2025;Scrap;process;Matin;505-931;DCK;DCK;Bakelite cassé;2;soudure shunt balai;soudure shunt balai
+19/03/2025;Scrap;process;Matin;505-931;DCK;DCK;soudure diode-shunt écraser;3;montage shunt &soudure self/shunt;montage shunt &soudure self/shunt
+19/03/2025;Scrap;process;Matin;505-931;DCK;DCK;soudure diode-tresse écraser;2;Soudure balai-Diode;Soudure balai-Diode
+19/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Balai cassé;35;Assemblage balai / Lame ressort;Assemblage balai / Lame ressort
+19/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Self mal plaquée haut;22;soudure électrique self / shunt  sur lame Flex2;MEP condo  + PTH + Retournement boitier Flex 2
+19/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Balai mal serti;120;Insertion lame/balai sur boitier_Flex 2;Controle finale Flex 2 partie B
+19/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Mauvais bouterollage lame balai /boitier;5;Sertissage lamme boitier et boutrollage Flex-2;Mise en place condo axial-Flex2
+19/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Languette tordue;2;Chargement et déchargement boitier sur palette_Flex 2;controle finale Flex 2 partie A
+19/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Marquage non conforme;1;controle vision;controle vision
+19/03/2025;Scrap;process;Matin;SIM II;sim 2;SIM;boitier cassé;7;insertion rotule;insertion rotule
+19/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;PDM endommagée;1;soudure etain automatique;controle etain +rework
+19/03/2025;Scrap;process;Matin;PPC MNG2 2L2C;Mng 2.1;MNG;plaquette cassée;1;Test électrique;Test électrique
+19/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Fourchette (2) endommagé;1;soudure fourchette /ICH/ resistance/ condo;test electrique
+19/03/2025;Scrap;process;Matin;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Effort ressort non conforme;1;Test force GENIIC;Test force GENIIC
+17/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Boîtier cassé;3;Sertissage lamme boitier et boutrollage;Mise en place condo axial
+19/03/2025;Scrap;defaut;A Midi;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;27;soudure self tresse;controle préparation
+19/03/2025;Scrap;reglage;A Midi;SIM II;sim 2;SIM;boitier cassé;4;insertion rotule;insertion rotule
+19/03/2025;Scrap;defaut;A Midi;ligne 2;Preparation CM4;CM4;Balais cassé;4;soudure self tresse;montage self/balais sur boitier
+19/03/2025;Scrap;process;A Midi;ligne 2;Preparation CM4;CM4;Contact endommagé;9;sertissage de 2 contacts +fourchette;retournement
+19/03/2025;Scrap;process;A Midi;BC NEM II;NEM 2 dup;NEM2;patte de masse tordue;4;Boutollage PDM;Mise en place des ressorts
+19/03/2025;Scrap;process;A Midi;BC NEM II;NEM 2 dup;NEM2;marquage illisible;5;identification de pièce par marquage;identification de pièce par marquage
+19/03/2025;Scrap;reglage;A Midi;ligne 2;Preparation CM4;CM4;Boitier endommagée;4;sertissage de 2 contacts +fourchette;chargement et déchargement
+19/03/2025;Scrap;process;A Midi;VM4 Tower;VM4 Partie A;VM4;Tour brûlée;4;robot de brasage;robot de brasage
+19/03/2025;Scrap;process;A Midi;PPC VM4/HOARAIRE;VM4 AUTO I;VM4;soudure écrasé;2;soudure électrique 3éme self & PTH;soudure électrique 3éme self & PTH
+19/03/2025;Scrap;defaut;A Midi;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;29;soudure self tresse;montage self/balais sur boitier
+19/03/2025;Scrap;process;A Midi;ligne 2;Preparation CM4;CM4;PDM endommagé;4;sertissage automatique de 2 inserts+patte de masse;retournement
+19/03/2025;Scrap;process;A Midi;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Effort ressort non conforme;1;Test force GENIIC;Test force GENIIC
+19/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Soudure self  écrasée;10;soudure électrique self sur lame;MEP condo  + Retournement boitier
+19/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Marquage décalé;5;Test électrique;Chargement - déchargement boitiersur palette
+19/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Mauvais bouterollage lame balai;6;Bouterollage lame balai sur boitier;Mise en place condo axial
+19/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Lame déformée;10;Test électrique;Chargement - déchargement boitiersur palette
+19/03/2025;Scrap;process;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Soudure self éclaté;2;soudure self terminals;soudure self terminals
+19/03/2025;Scrap;process;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;languettes cassés;2;Test force GENIIC;Test force GENIIC
+19/03/2025;Scrap;defaut;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;soudure condo/EMC écrasé;1;Controle Finale GENII C;Controle Finale GENII C
+19/03/2025;Scrap;process;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Soudure self éclaté;1;soudure électrique contact self 3 OU PTH SELF;soudure électrique contact self 3 OU PTH SELF
+19/03/2025;Scrap;process;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;contact EMC déformé;1;sertissage guides GEN2 C;soudure électrique balais 1 et self 1
+19/03/2025;Scrap;process;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Effort ressort non conforme;59;Test force GENIIC;Test force GENIIC
+20/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Balai mal serti;116;Assemblage balai / Lame ressort;Insertion lame/balai sur boitier
+20/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Balai cassé;12;Assemblage balai / Lame ressort;Insertion lame/balai sur boitier
+20/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Soudure self  écrasée;2;soudure électrique self sur lame;MEP condo  + Retournement boitier
+20/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Languette tordue;2;Chargement - déchargement boitiersur palette;Soudure à l'étain
+20/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Mauvaise marquage;3;Test électrique;Test électrique
+20/03/2025;Scrap;process;Matin;SIM II;sim 2;SIM;boitier cassé;3;insertion auto de s/e+rotule;insertion auto de s/e+rotule
+20/03/2025;Scrap;process;Matin;SIM II;sim 2;SIM;balais cassé;3;test electrique;controle finale
+20/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Fourchette (2) endommagé;6;soudure fourchette /ICH/ resistance/ condo;test electrique
+20/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Fourchette (1) endommagé;2;soudure fourchette /ICH/ condo;test electrique
+20/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Fourchette (3) endommagé;2;soudure fourchette /ICHall/ resistance;test electrique
+20/03/2025;Scrap;reglage;A Midi;ligne 2;Preparation CM4;CM4;Contact endommagé;2;sertissage automatique de 2 inserts+patte de masse;retournement
+20/03/2025;Scrap;defaut;A Midi;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;26;soudure self tresse;montage self/balais sur boitier
+20/03/2025;Scrap;process;A Midi;ligne 2;Preparation CM4;CM4;PDM endommagé;4;sertissage automatique de 2 inserts+patte de masse;retournement
+21/03/2025;Scrap;process;Matin;B8;10T Bresil;10 T BRESIL;test;30;soudure connecteur sur platine;déschuntage platine
+21/03/2025;Scrap;formation;Matin;B8;10T Bresil;10 T BRESIL;test;5;soudure condo sur platine;pose ressort
+21/03/2025;Scrap;formation;Matin;B8;10T Bresil;10 T BRESIL;test;5;soudure condo sur platine;pose ressort
+21/03/2025;Scrap;process;Matin;B8;10T Bresil;10 T BRESIL;test;30;soudure connecteur sur platine;déschuntage platine
+21/03/2025;Scrap;process;Matin;B8;10T Bresil;10 T BRESIL;test;30;soudure connecteur sur platine;déschuntage platine
+21/03/2025;Scrap;formation;Matin;B8;10T Bresil;10 T BRESIL;test;26;soudure condo sur platine;soudure connecteur sur platine
+21/03/2025;Scrap;process;Matin;B8;10T Bresil;10 T BRESIL;test;30;soudure connecteur sur platine;déschuntage platine
+21/03/2025;Scrap;formation;Matin;B8;10T Bresil;10 T BRESIL;test;5;soudure condo sur platine;pose ressort
+21/03/2025;Scrap;formation;Matin;B8;10T Bresil;10 T BRESIL;test;26;soudure condo sur platine;soudure connecteur sur platine
+21/03/2025;Scrap;process;Matin;BACK UP ANTENNA K0;back up antenna;BACK UP ANTENNA;Fil débobiné;5;BUA controle vision;BUA Soudure étain des terminals
+21/03/2025;Scrap;process;Matin;VM4 Tower;VM4 Partie A;VM4;Tour brûlée;5;robot  de brasage;robot  de brasage
+21/03/2025;Scrap;process;Matin;BACK UP ANTENNA K0;back up antenna;BACK UP ANTENNA;Boule d'étain;4;BUA controle vision;BUA Soudure étain des terminals
+21/03/2025;Scrap;process;Matin;BACK UP ANTENNA K0;back up antenna;BACK UP ANTENNA;Exés d'étain sur fil;2;BUA controle vision;BUA Soudure étain des terminals
+21/03/2025;Scrap;process;Matin;BACK UP ANTENNA K0;back up antenna;BACK UP ANTENNA;Pic d'étain;2;BUA controle vision;BUA Soudure étain des terminals
+21/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Lame déformée;5;Bouterollage lame balai sur boitier;Mise en place condo axial
+21/03/2025;Scrap;reglage;Matin;B8;B8;B8;soudure connecteur éclaté;2;soudure connecteur sur platine;soudure connecteur sur platine
+21/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Marquage décalé;3;Test électrique;Test électrique
+21/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Soudure self  écrasée;5;soudure électrique self sur lame;MEP condo  + Retournement boitier
+21/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Mauvais bouterollage lame balai;8;Bouterollage lame balai sur boitier;Mise en place condo axial
+21/03/2025;Scrap;reglage;Matin;B8;B8;B8;soudure self écrasé;1;soudure self N°1;soudure self N°1
+21/03/2025;Scrap;process;Matin;PPC FLEX;Flex2;FLEX;Soudure self éclaté;3;soudure électrique self / shunt  sur lame Flex2;MEP condo  + PTH + Retournement boitier Flex 2
+21/03/2025;Scrap;process;Matin;PPC FLEX;Flex2;FLEX;Balai cassé;250;Sertissage lamme boitier et boutrollage Flex-2;Assemblage balai / Lame ressort
+21/03/2025;Scrap;process;Matin;503.908;B8;B8;Bakelite cassé;4;Insertion balai / self;Insertion balai / self
+21/03/2025;Scrap;process;Matin;PPC FLEX;Flex2;FLEX;Mauvais bouterollage lame balai /boitier;9;Sertissage lamme boitier et boutrollage Flex-2;Mise en place self / shunt Flex-2
+21/03/2025;Scrap;process;Matin;503.908;B8;B8;guide déformé;3;Insertion balai / self;préparation guide ressort
+21/03/2025;Scrap;reglage;Matin;503.908;B8;B8;marquage illisible;4;test électrique;test électrique
+21/03/2025;Scrap;process;Matin;SIM II;sim 2;SIM;boitier cassé;7;insertion rotule;insertion rotule
+21/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;fourchette self endommagée;1;soudure fourchette;Montage PCB
+21/03/2025;Scrap;formation;Matin;V420284 SIM ELEC;Sim Elec;SIM ELEC;boitier cassé;10;insertion automatique de s/e;insertion automatique de s/e
+21/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;PDM endommagée;1;soudure etain automatique;controle etain +rework
+21/03/2025;Scrap;process;A Midi;T7;T7;Engine Cooling;soudure self éclaté;2;soudure self fusible (self N°2);soudure self fusible (self N°2)
+21/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Fourchette (2) endommagé;12;soudure fourchette /ICH/ resistance/ condo;test electrique
+21/03/2025;Scrap;process;Matin;CM4-Ligne 2;CM3-CM4 Ligne 2;CM4;Fourchette (1) endommagé;1;soudure fourchette /ICH/ condo;test electrique
+21/03/2025;Scrap;process;A Midi;VM4 Tower;VM4 Partie A;VM4;Tour brûlée;4;robot de brasage;robot de brasage
+21/03/2025;Scrap;process;A Midi;VM4 Tower;VM4 Partie A;VM4;Tour brûlée;7;robot  de brasage;robot  de brasage
+21/03/2025;Scrap;process;A Midi;PPC VM4/HOARAIRE;VM4 AUTO I;VM4;soudure écrasé;2;soudure électrique 3éme self & PTH;soudure électrique 3éme self & PTH
+21/03/2025;Scrap;reglage;A Midi;PPC VM4/HOARAIRE;VM4 AUTO I;VM4;reteneur.. cassé;4;montage composants sur convoyeur;montage composants sur convoyeur
+21/03/2025;Scrap;process;A Midi;PPC VM4/ANTI HORAIRE;VM4 AUTO I;VM4;bakélite cassé;2;montage composants sur convoyeur;soudure électrique PTH & PDM
+21/03/2025;Scrap;process;A Midi;BC NEM II;NEM 2;NEM2;botroulage nc;18;Boutollage PDM;Mise en place des ressorts
+21/03/2025;Scrap;process;A Midi;PPC VM4/ANTI HORAIRE;VM4 AUTO I;VM4;soudure écrasé;2;soudure électrique 3éme self & PTH;soudure électrique 3éme self & PTH
+21/03/2025;Scrap;reglage;A Midi;BC NEM II;NEM 2 dup;NEM2;botroulage nc;53;Boutollage PDM;Mise en place des ressorts
+21/03/2025;Scrap;process;A Midi;BC NEM II;NEM 2 dup;NEM2;patte de masse tordue;18;Boutollage PDM;Mise en place des ressorts
+21/03/2025;Scrap;reglage;A Midi;SIM II;sim 2;SIM;boitier cassé;2;insertion rotule;insertion rotule
+21/03/2025;Scrap;reglage;A Midi;Préparation CM3 réf 779;Preparation CM3;CM3;PDM endommagé;8;Sertissage automatique des pin 1&3&PDM;Retournement
+21/03/2025;Scrap;process;A Midi;PPC GEN2;GEN2 Réversible;GEN2 REVERSIBLE;Boitier cassé;1;test electrique et controle caméra;controle finale GEN2 REV
+21/03/2025;Scrap;process;A Midi;PPC GEN2;GEN2 Réversible;GEN2 REVERSIBLE;Muret cassé;1;test electrique et controle caméra;controle finale GEN2 REV
+21/03/2025;Scrap;reglage;A Midi;ligne 2;Preparation CM4;CM4;Boitier endommagée;6;sertissage de 2 contacts +fourchette;chargement et déchargement
+21/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Soudure self  écrasée;12;soudure électrique self sur lame;MEP condo  + Retournement boitier
+21/03/2025;Scrap;process;A Midi;PPC FLEX;Flex2;FLEX;marquage décalé;4;Test électrique Flex 2;Chargement et déchargement boitier sur palette_Flex 2
+21/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;soudure condo écrasé;10;soudure électrique condo sur lame;Montage self / lame
+21/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Lame déformée;8;Test électrique;Chargement - déchargement boitiersur palette
+21/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Mauvais bouterollage lame balai;6;Bouterollage lame balai sur boitier;Mise en place condo axial
+21/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Marquage décalé;5;Test électrique;Chargement - déchargement boitiersur palette
+21/03/2025;Scrap;defaut;A Midi;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;22;soudure self tresse;controle préparation
+21/03/2025;Scrap;defaut;A Midi;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;35;soudure self tresse;montage self/balais sur boitier
+21/03/2025;Scrap;process;A Midi;ligne 2;Preparation CM4;CM4;PDM endommagé;6;sertissage automatique de 2 inserts+patte de masse;retournement
+21/03/2025;Scrap;process;A Midi;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;soudure PTH contact negative écrasé;1;soudure électrique contact GND et PTH;Controle Finale GENII C
+21/03/2025;Scrap;process;A Midi;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Camera vision;3;Test électrique et controle caméra GENII C;Test électrique et controle caméra GENII C
+21/03/2025;Scrap;process;A Midi;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Effort ressort non conforme;11;Test force GENIIC;Test force GENIIC
+21/03/2025;Scrap;process;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;soudure condo/EMC écrasé;2;Soudure électrique de 2 pattes condo et contact EMC;Controle Finale GENII C
+21/03/2025;Scrap;formation;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;soudure condo/terminaux décalé;1;soudure électrique condo 1 & terminal 1;Controle Finale GENII C
+21/03/2025;Scrap;process;Nuit;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Effort ressort non conforme;19;Test force GENIIC;Test force GENIIC
+22/03/2025;Scrap;process;Matin;B8;B8;B8;Court circuit;1;test électrique & impression galia;test électrique & impression galia
+22/03/2025;Scrap;process;Matin;503.907;DCK;DCK;Guide écrasée;3;préparation guide ressort;montage balai guide
+22/03/2025;Scrap;reglage;Matin;VM4 Tower;VM4 Partie A;VM4;Tour brûlée;7;robot  de brasage;robot  de brasage
+22/03/2025;Scrap;reglage;Matin;PPC_F.P;F.P;FIRST PLASTIQUE;muret cassée;3;Poste de test électrique;Poste de test électrique
+22/03/2025;Scrap;process;Matin;PPC GEN2;GEN2 Réversible;GEN2 REVERSIBLE;Data matrix NC;3;test electrique et controle caméra;test electrique et controle caméra
+22/03/2025;Scrap;process;Matin;PPC GEN2;GEN2 Réversible;GEN2 REVERSIBLE;Boitier cassé;3;Botrollage;test electrique et controle caméra
+22/03/2025;Scrap;process;Matin;PPC First plastique;F.P;FIRST PLASTIQUE;Self déformée;10;Verrouillage self / tresse;Déchargement palette
+22/03/2025;Scrap;reglage;Matin;PPC VM4/HOARAIRE;VM4 AUTO I;VM4;soudure écrasé;3;soudure électrique 3éme self & PTH;soudure électrique 3éme self & PTH
+22/03/2025;Scrap;reglage;Matin;PPC VM4/HOARAIRE;VM4 AUTO I;VM4;contact déformé;4;montage composants sur convoyeur;montage composants sur convoyeur
+22/03/2025;Scrap;process;Matin;BACK UP ANTENNA K0;back up antenna;BACK UP ANTENNA;Fil débobiné;6;BUA controle vision;BUA Soudure étain des terminals
+22/03/2025;Scrap;process;Matin;BACK UP ANTENNA K0;back up antenna;BACK UP ANTENNA;Exés d'étain sur fil;5;BUA controle vision;BUA Soudure étain des terminals
+22/03/2025;Scrap;process;Matin;BACK UP ANTENNA K0;back up antenna;BACK UP ANTENNA;Fil coupée Wrapping  1;5;BUA controle vision;BUA Soudure étain des terminals
+22/03/2025;Scrap;reglage;Matin;B8;B8;B8;soudure self écrasé;2;soudure self N°1;soudure self N°1
+22/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Balai mal serti;112;Assemblage balai / Lame ressort;Insertion lame/balai sur boitier
+22/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Balai cassé;25;Assemblage balai / Lame ressort;Insertion lame/balai sur boitier
+22/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Languette tordue;2;Chargement - déchargement boitiersur palette;Soudure à l'étain
+22/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Soudure self  écrasée;2;soudure électrique self sur lame;MEP condo  + Retournement boitier
+22/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Patte de masse déformée;1;Chargement - déchargement boitiersur palette;CF partie B
+22/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Marquage décalé;2;Test électrique;Test électrique
+22/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Boîtier cassé;2;Bouterollage lame balai sur boitier;Mise en place condo axial
+22/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Self déformée;1;soudure électrique self sur lame;CF partie B
+22/03/2025;Scrap;process;Matin;PPC FLEX 1;Flex1;FLEX;Mauvaise marquage;1;Test électrique;Test électrique
+22/03/2025;Scrap;process;Matin;SIM II;sim 2;SIM;boitier cassé;6;insertion rotule;insertion rotule
+22/03/2025;Scrap;reglage;Matin;V420284 SIM ELEC;Sim Elec;SIM ELEC;boitier zone rotule cassé;8;insertion automatique de s/e;insertion automatique de s/e
+22/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Mauvaise  marquage;3;Test électrique Flex 2;Controle finale Flex 2 partie B
+22/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;soudure condo écrasé;3;Soudure condo axiale flex 2;Controle soudure condo axiale et boutrollage
+22/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Mauvais bouterollage lame balai /boitier;6;Sertissage lamme boitier et boutrollage Flex-2;Mise en place condo axial-Flex2
+22/03/2025;Scrap;process;Matin;PPC FLEX 2;Flex2;FLEX;Soudure self  écrasée;5;soudure électrique self / shunt  sur lame Flex2;Controle finale Flex 2 partie B
+22/03/2025;Scrap;process;A Midi;PPC VM4/HOARAIRE;VM4 AUTO I;VM4;soudure écrasé;2;soudure électrique rivet et 3éme self;soudure électrique rivet et 3éme self
+22/03/2025;Scrap;process;A Midi;PPC VM4/HOARAIRE;VM4 AUTO I;VM4;bakélite cassé;1;montage composants sur convoyeur;soudure électrique PTH & PDM
+22/03/2025;Scrap;process;A Midi;VM4 Tower;VM4 Partie A;VM4;Tour brûlée;8;robot  de brasage;robot  de brasage
+22/03/2025;Scrap;process;A Midi;ligne 2;Preparation CM4;CM4;PDM endommagé;1;sertissage automatique de 2 inserts+patte de masse;controle préparation
+22/03/2025;Scrap;reglage;A Midi;ligne 2;Preparation CM4;CM4;Boitier endommagée;1;sertissage automatique de 2 inserts+patte de masse;controle préparation
+22/03/2025;Scrap;defaut;A Midi;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;24;soudure self tresse;montage self/balais sur boitier
+22/03/2025;Scrap;defaut;A Midi;ligne 2;Preparation CM4;CM4;Mauvaise soudure self tresse;18;soudure self tresse;controle préparation
+22/03/2025;Scrap;process;A Midi;Préparation CM3 réf 779;Preparation CM3;CM3;PDM endommagé;3;Sertissage automatique des pin 1&3&PDM;Retournement
+22/03/2025;Scrap;process;A Midi;Préparation CM3 réf 779;Preparation CM3;CM3;Contact endommagé;1;Sertissage automatique des pin 1&3&PDM;Retournement
+22/03/2025;Scrap;process;A Midi;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;terminaux mal clippés;2;insertion contact GND et Terminaux au platine;controle finale partie A GEN2 C
+22/03/2025;Scrap;process;A Midi;PPC VM4/ANTI HORAIRE;VM4 AUTO I;VM4;reteneur.. cassé;4;montage composants sur convoyeur;montage composants sur convoyeur
+22/03/2025;Scrap;process;A Midi;PPC VM4/ANTI HORAIRE;VM4 AUTO I;VM4;soudure écrasé;1;soudure tresse/self M1;soudure tresse/self M1
+22/03/2025;Scrap;reglage;A Midi;SIM II;sim 2;SIM;boitier cassé;4;insertion rotule;insertion rotule
+22/03/2025;Scrap;process;A Midi;CM4-NL;CM3-CM4 Ligne 2;CM4;vernis sur boitier;2;Vernissage automatique;controle aspect soudure
+22/03/2025;Scrap;process;A Midi;PPC FLEX 2;Flex2;FLEX;Mauvais bouterollage lame balai /boitier;6;Boutrollage condo axial-Flex 2;Mise en place condo axial-Flex2
+22/03/2025;Scrap;process;A Midi;PPC FLEX 2;Flex2;FLEX;Soudure self  écrasée;5;soudure électrique self / shunt  sur lame Flex2;MEP condo  + PTH + Retournement boitier Flex 2
+22/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;soudure condo écrasé;6;soudure électrique condo sur lame;Montage self / lame
+22/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Soudure self  écrasée;12;soudure électrique self sur lame;MEP condo  + Retournement boitier
+22/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Lame déformée;8;Test électrique;Chargement - déchargement boitiersur palette
+22/03/2025;Scrap;process;A Midi;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Terminal déformé;4;insertion contact GND et Terminaux au platine;controle finale partie A GEN2 C
+22/03/2025;Scrap;process;A Midi;PPC FLEX 1;Flex1;FLEX;Marquage décalé;5;Test électrique;Chargement - déchargement boitiersur palette
+22/03/2025;Scrap;process;A Midi;PPC GEN2 C;GEN2 Continue;GEN2 CONTINUE;Murée cassé;1;insertion contact GND et Terminaux au platine;controle finale partie A GEN2 C
+22/03/2025;Scrap;process;A Midi;B8;B8;B8;soudure self éclaté;1;soudure self N°1;soudure self N°1
+22/03/2025;Scrap;process;A Midi;B8;B8;B8;Platine cassé;1;soudure self N°1;soudure self N°1
+22/03/2025;Scrap;process;A Midi;T7;T7;Engine Cooling;soudure self éclaté;1;soudure self fusible (self N°2);soudure self fusible (self N°2)
+22/03/2025;Scrap;process;A Midi;B8;B8;B8;soudure self écrasé;5;soudure self fusible (self N°2);soudure self fusible (self N°2)
+22/03/2025;Scrap;process;A Midi;T7;T7;Engine Cooling;soudure self écrasé;1;soudure self N°1;soudure self N°1
+22/03/2025;Scrap;process;A Midi;PPC MNG2 2L2C;Mng 2.2;MNG;plaquette cassée;1;passage calibre hauteur guide;passage calibre hauteur guide
