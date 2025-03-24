@@ -1,18 +1,29 @@
 import pandas as pd
 from fastapi import FastAPI,File, HTTPException, Form 
-from io import BytesIO
-import base64
+#from io import BytesIO
+#import base64
 from pydantic import BaseModel
+from b2sdk.v2 import InMemoryAccountInfo, B2Api
 #import uvicorn
 
 app = FastAPI()
+
+info = InMemoryAccountInfo()
+
+b2_api = B2Api(info)
+API_key_id = 'b2eff4365da9'
+API_key = '0051f6521ef86de92145b66acfe51adfe352eee548'
+b2_api.authorize_account('production',API_key_id, API_key )
+
+bucket_name = "testfichier"
+bucket = b2_api.get_bucket_by_name(bucket_name)
 
 #------------------------------------------------------------------------------
 # 1. Définition du modèle de requête (JSON)
 #------------------------------------------------------------------------------
 
 class CSVRequest(BaseModel):
-    file_data: str  # Le contenu du fichier CSV encodé en base64
+    #file_data: str  # Le contenu du fichier CSV encodé en base64
     colonne_date: str
     colonne_categorie: str
     colonne_qte_defaut: str
@@ -136,14 +147,20 @@ async def process_csv(request: CSVRequest):
     # Lecture et conversion du fichier CSV envoyé en DataFrame
     try:
         # Vérification et ajout du padding nécessaire pour une chaîne base64 valide
-        file_data = request.file_data
-        missing_padding = len(file_data) % 4
-        if missing_padding:
-            file_data += '=' * (4 - missing_padding)
+        # file_data = request.file_data
+        # missing_padding = len(file_data) % 4
+        # if missing_padding:
+        #     file_data += '=' * (4 - missing_padding)
 
-        decoded_bytes = base64.b64decode(file_data)
+
+        file_name = "SCRAP_2025_03_13-08_03_42 V1.xlsx"
+        downloaded_file = bucket.download_file_by_name(file_name)
+        downloaded_file.save_to("data.csv")
+
+        #decoded_bytes = base64.b64decode(fichier_csv)
         #contents = await file.read()
-        df = pd.read_csv(BytesIO(decoded_bytes), encoding="cp1252", sep=",", engine="python")
+        #df = pd.read_csv(BytesIO(decoded_bytes), encoding="cp1252", sep=",", engine="python")
+        df = pd.read_csv("data.csv", encoding="cp1252", sep=None, engine="python")
     except Exception as e:
         raise HTTPException(status_code=400, detail=f"Erreur lors de la lecture du fichier CSV: {e}")
 
