@@ -153,7 +153,7 @@ async def process_csv(request: CSVRequest):
         #     file_data += '=' * (4 - missing_padding)
 
 
-        file_name = "SCRAP_2025_03_13-08_03_42 V1.xlsx"
+        file_name = "SCRAP_2025_03_13-08_03_42 V1.csv"
         downloaded_file = bucket.download_file_by_name(file_name)
         downloaded_file.save_to("data.csv")
         print("Le fichier data.csv a bien été téléchargé et sauvegardé.")
