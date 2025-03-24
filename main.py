@@ -14,7 +14,6 @@ b2_api = B2Api(info)
 API_key_id = 'b2eff4365da9'
 API_key = '0051f6521ef86de92145b66acfe51adfe352eee548'
 b2_api.authorize_account('production',API_key_id, API_key )
-
 bucket_name = "testfichier"
 bucket = b2_api.get_bucket_by_name(bucket_name)
 
@@ -153,7 +152,7 @@ async def process_csv(request: CSVRequest):
         #     file_data += '=' * (4 - missing_padding)
 
 
-        file_name = "SCRAP_2025_03_13-08_03_42 V1.csv"
+        file_name = "Scrap S12.csv"
         downloaded_file = bucket.download_file_by_name(file_name)
         downloaded_file.save_to("data.csv")
         print("Le fichier data.csv a bien été téléchargé et sauvegardé.")
