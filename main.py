@@ -140,7 +140,7 @@ async def process_csv(request: CSVRequest):
         if missing_padding:
             file_data += '=' * (4 - missing_padding)
 
-        decoded_bytes = base64.b64decode(request.file_data)
+        decoded_bytes = base64.b64decode(file_data)
         #contents = await file.read()
         df = pd.read_csv(BytesIO(decoded_bytes), encoding="cp1252", sep=";", engine="python")
     except Exception as e:
